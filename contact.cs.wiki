@@ -1,0 +1,30 @@
+= Kontakt
+
+== Kontaktní údaje
+
+Pavel Šimerda\\
+Krymská 56/39\\
+Praha 10, 101~ 00
+
+IČ: 76220508, neplátce DPH
+
+Web: [[http://www.netinstall.cz/|www.netinstall.cz]] \\
+Mail: [[mailto:pavel.simerda@netinstall.cz|pavel.simerda@netinstall.cz]] \\
+Jabber: [[xmpp:pavel.simerda@netinstall.cz]] \\
+Telefon: [[phone:+420775996256]]
+
+Bankovní spojení: 3657503036/5500, Raiffeisen Bank
+
+== Doporučený způsob komunikace
+
+Veškeré informace, které mi chcete sdělit napište
+přímo do textu e-mailu. Pokud se nedomluvíme jinak, posílejte
+doplňkové materiály v následujících formátech:
+
+* PDF -- univerzální formát pro dokumenty připravené k prohlížení a tisku
+* EPS, SVG -- grafické prvky, loga a podobné (jen vektorová grafika)
+* JPEG -- fotografie
+* PNG -- screenshoty, ukázky
+* TAR, ZIP, 7-ZIP -- archivy (jen pokud posíláte větší množství souborů)
+
+Používání vhodných formátů může výrazně urychlit naši komunikaci.
