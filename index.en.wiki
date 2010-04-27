@@ -1,0 +1,26 @@
+= Netinstall
+
+I use this website to offer my services in server management,
+computer networking, Internet services and applications.
+My customers are mostly IT companies but I also work for
+companies in other fields.
+
+My services include:
+
+* [[training|Training in computer networking and unix-like operating systems]]
+* [[server-management|Installation and configuration of servers and applications]]
+* [[computer-networking|Configuration and securing computer networks]]
+* [[hardware|Hardware purchase consulting]]
+* [[connectivity|Internet connectivity consulting]]
+
+In case of interest or questions, you are welcome to [[contact]] me. You may also want
+to review some of my [[references]].
+
+//Pavel Šimerda//
+
+.meta {{{
+Title: Pavel Šimerda -- training, consultancy and other services in computer networking and unix operating systems
+Description: Training, consulting and other services by Pavel Šimerda.
+Keywords: training, server management, computer networks, computer security
+Copyright: cc-by-nd
+}}}

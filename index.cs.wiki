@@ -14,3 +14,15 @@ V mé nabídce najdete následující služby:
 
 V případě zájmu nebo jakýchkoli dotazů mě [[kontakt|kontaktujte]], případně
 se můžete podívat na výběr z mých [[reference|referencí]].
+
+//Pavel Šimerda//
+
+.meta {{{
+#Tag: netinstall
+#Name: Netinstall
+Title: Pavel Šimerda -- nabídka školení, konzultací a dalších služeb \
+v oblasti počítačových sítí a unixových operačních systémů
+Description: Školení, konzultace a další služby Pavla Šimerdy.
+Keywords: školení, správa serverů, počítačové sítě, počítačová bezpečnost
+Copyright: cc-by-nd
+}}}
