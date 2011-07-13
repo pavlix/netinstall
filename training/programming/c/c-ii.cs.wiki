@@ -12,7 +12,7 @@ Platforma: Linux
 
 Standard: ANSI/ISO
 
-Předpoklady: Znalost programování na Linuxu v rozsahu kurzu [[c-i|Programování v C I]]
+Předpoklady: Znalost programování na Linuxu v rozsahu kurzu [[programovani-v-c-na-linuxu-i|Programování v C I]]
 
 * Opakování základů
 * Rozdělení programu na funkce
