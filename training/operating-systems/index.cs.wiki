@@ -25,7 +25,7 @@ Kromě kurzů na míru vám můžu nabídnout zavedené kurzy pořádané
 ve spolupráci se školicími středisky.
 
 * **[[linux/administrace-linuxu-i-zaklady|Administrace Linuxu I]]** (instalace a seznámení se systémem)
-* **[[linux/administrace-linuxu-ii-pokrocile-technikyi|Administrace Linuxu II]]** (konfigurace, údržba a zálohování)
+* **[[linux/administrace-linuxu-ii-pokrocile-techniky|Administrace Linuxu II]]** (konfigurace, údržba a zálohování)
 
 * **[[shell/skriptovani-v-shellu-i|Skriptování v shellu I]]** (základy)
 * **[[shell/skriptovani-v-shellu-ii|Skriptování v shellu II]]** (zpracování textových formátů (grep, sed, awk a další))
