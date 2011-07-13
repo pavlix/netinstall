@@ -9,7 +9,7 @@ Některé nástroje dokážou opravdu ulehčit život nejen programátorů.
 Prominentním nástrojem je i systém správy verzí Git, používaný
 mimojiné i pro správu zdrojového stromu linuxového jádra.
 
-* **[[git-spravce-zdrojovych-kodu|Git]]** (správce zdrojových kódů)
+* **[[nastroje/git-spravce-zdrojovych-kodu|Git]]** (správce zdrojových kódů)
 * Mercurial (správce zdrojových kódů)
 * GDB (příkazový interaktivní debugger)
 
