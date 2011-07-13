@@ -1,6 +1,6 @@
-Tag: programovani-v-c-ii
+Tag: programovani-v-cpp-ii
 
-= Programovnání v C II
+= Programovnání v C++ II
 
 Délka kurzu: 3 dny
 Platforma: Linux (obecná použitelnost) \\
