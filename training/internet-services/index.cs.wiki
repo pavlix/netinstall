@@ -60,5 +60,5 @@ Tag: internetove-sluzby
 == Další informace
 
 Po zvládnutí základních webových technologií přirozeně přichází
-zájem poznat [[../servers-and-server-applications|technologie serverů]] a také možnosti [[../programming|programování]]
+zájem poznat [[../serverove-aplikace|technologie serverů]] a také možnosti [[../programming|programování]]
 webových aplikací.
