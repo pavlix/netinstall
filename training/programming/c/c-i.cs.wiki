@@ -1,0 +1,22 @@
+Tag: programovani-v-c-na-linuxu-i
+
+= Programování v C na Linuxu I
+
+Základní kurz vám pomůže se zorientovat v programovacím jazyce
+C. Naučíte se psát jednoduché prográmky a připravíte se na další
+rozvoj svých programátorských znalostí.
+
+Délka kurzu: 3 dny
+
+Platforma: Linux
+
+Standardy: ANSI/ISO
+
+* Textové editory vs integrovaná prostředí
+* První program
+* Základní datové typy
+* Práce s proměnnými a konstantami
+* Vstup a výstup (stdio.h)
+* Podmínky a cykly
+* Jednoduchá pole
+* Strukturované typy

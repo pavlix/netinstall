@@ -1,0 +1,21 @@
+Tag: programovani-v-c-na-linuxu-iv
+
+= Programování v C na Linuxu IV
+
+* Nástroje na kompilaci
+** Sada kompilátorů GCC
+** Make
+** Autoconf
+** Automake
+** Libtool
+** Gettext
+* Statické a dynamické linkování
+** dlopen
+** ld, ldd, ldconfig
+** LD_PRELOAD
+* Nástroje pro ladění a profilování
+** GDB
+** strace, ltrace, pstack, pmap
+** valgrind
+** gprof
+

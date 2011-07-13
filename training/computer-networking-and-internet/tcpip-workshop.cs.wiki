@@ -1,0 +1,22 @@
+== TCP/IP -- praktická část (třetí den) ==
+
+Zřejmě by to vycházelo zhruba na jeden den, navíc ke dvěma
+dnům teorie. Ale je možnost postavit tu síť i během výkladu teorie,
+průběžně.
+
+//Prozatím odloženo//, počítám spíše s možností udělat třídenní
+školení s průběžným praktickým zkoušením.
+
+Potřebné pomůcky:
+
+* Switche -- ideálně aby měl každý účastník jeden k dispozici (když bude nějaký navíc, tím líp), dají se sehnat určitě do 800 Kč/ks
+* Managed switch s podporou VLAN -- ještě třeba rozmyslet značku a typ, ideální by byly dva, ale kvůli ceně bysme jeden mohli nahradit strojem s linuxem. Cena 4000-6000 Kč
+* Na ukázku jeden HW router, uvažoval bych o Mikrotiku (cena okolo 3000Kč),
+ale dá se ledacos.
+* Dostatek PC s linuxem a alespoň dvěma (ale lépe třemi) ethernetovými rozhraními. Asi by bylo nejlepší, kdyby šlo o samostatné počítače s přístupem přes SSH nebo sériový port. Jednak slouží jako síťové prvky na školení, ale často také
+v praxi. Je potřeba, aby se zákazníci dostali k zapojení kabelů do těch počítačů. Pokud by něco chybělo, já jsem kupoval vhodné počítače do 1600 včetně síťových rozhraní (bazar).
+* Kabeláž, v dostatečném množství.
+* Koncové počítače různých OS (aspoň Linux a windows)
+
+Náplň vychází z teoretické části školení.
+

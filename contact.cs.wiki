@@ -1,3 +1,5 @@
+Tag: kontakt
+
 = Kontakt
 
 == Kontaktní údaje
@@ -11,9 +13,9 @@ IČ: 76220508, neplátce DPH
 Web: [[http://www.netinstall.cz/|www.netinstall.cz]] \\
 Mail: [[mailto:pavel.simerda@netinstall.cz|pavel.simerda@netinstall.cz]] \\
 Jabber: [[xmpp:pavel.simerda@netinstall.cz]] \\
-Telefon: [[phone:+420775996256]]
+Telefon: [[phone:+420.775996256]]
 
-Bankovní spojení: 3657503036/5500, Raiffeisen Bank
+.meta comment Bankovní spojení: 3657503036/5500, Raiffeisen Bank
 
 == Doporučený způsob komunikace
 

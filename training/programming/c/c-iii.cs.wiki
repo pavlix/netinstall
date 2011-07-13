@@ -1,0 +1,21 @@
+Tag: programovani-v-c-na-linuxu-iii
+
+=== Programování v C na Linuxu III
+
+* Procesy
+* IPC
+** Soubory
+** Signály
+** Zprávy
+** Roury a pojmenované roury
+** Semafory
+** Sdílená paměť
+** Mapované soubory
+* Vlákna
+** Vícevláknové aplikace
+** Synchronizační prostředky
+** Předcházení deadlockům
+** Lokální data
+* Síťová komunikace
+** Sockety
+** DNS

@@ -1,0 +1,33 @@
+Tag: kontejnerova-virtualizace-na-linuxu
+
+= Kontejnerová virtualizace na Linuxu (LXC)
+
+V tomto školení se seznámíte s možnostmi virtualizace na úrovni linuxového jádra.
+Taková virtualizace je velice efektivní a nemá téměř žádnou režii. Umožňuje
+spouštět lehké virtuály určené třeba i pro jednotlivé aplikace.
+
+Délka kurzu: 1 den
+
+Platforma: Linux
+
+Doporučené distribuce: Debian 6.0
+
+* Přehled možností virtualizace na Linuxu
+** Jaderná virtualizace (kontejnery)
+** Paravirtualizace (spolupracující systém)
+** Úplná virtualizace
+* Přehled jaderných virtualizačních technologií
+** LXC
+** OpenVZ
+* Technologické zázemí jádra
+** Kontrolní skupiny (cgroups)
+** Omezování využití prostředků
+* Práce s nástroji LXC
+** Ověření podpory kontejnerů v jádře
+** Vytvoření virtuálu
+** Pouštění a zastavování terminálů
+** Vypisování virtuálů
+* Tipy a triky
+** Jednoduchá virtuální síť
+** Přístup k zařízení hlavního systému
+* Několik poznámek k bezpečnosti

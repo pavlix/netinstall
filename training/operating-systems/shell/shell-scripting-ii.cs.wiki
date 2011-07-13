@@ -1,0 +1,30 @@
+Tag: skriptovani-v-shellu-ii
+Name: Skriptování v shellu II
+Keywords: školení, skriptování, shell, bash, \
+regulární výrazy, filtrování, tabulky, \
+zpracování textu, \
+grep, sed, awk, cut, join, paste, sort, uniq
+
+= Skriptování v shellu II (cut, sed, awk)
+
+V tomto kurzu doplníte svou znalost shellu o nástroje na
+automatizované zpracování textu.
+
+Délka kurzu: 3 dny
+
+Předpokládané znalosti: Znalost shellu v rozsahu kurzu [[skriptovani-v-shellu-i|Skriptování v shellu I]]
+
+Software: Bash
+
+* Vestavěné textové nástroje shellu
+* Regulární výrazy
+* Filtrování (grep, pcregrep)
+* Úpravy textu (sed)
+** nahrazování
+* Operace s tabulkami (cut, join, paste)
+* Řazení záznamů (sort, uniq)
+* Pokročilé zpracování textu (awk)
+** Pravidla
+** Podmínky a cykly
+** Funkce
+* Stručný přehled dalších možností

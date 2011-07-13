@@ -1,0 +1,73 @@
+Tag: sada-internetovych-protokolu-tcp-ip
+
+== Sada internetových protokolů TCP/IP
+
+Na tomto kurzu se detailně seznámíte s teorií počítačových
+sítí TCP/IP. Kurz je teoretický a nezahrnuje práci s počítačem.
+
+Délka: 2 dny
+
+Vstupní předpoklady: Základní povědomí o počítačových sítích.
+
+* Počítačové sítě
+** Topologie sítí
+* Architektura TCP/IP
+** Srovnání s architekturou ISO/OSI
+** Adresování uzlů v síti
+* Ethernet
+** Adresování
+** Datové rámce
+** Repeatery a huby
+** Bridge a switche
+** VLAN
+** MTU
+** Bezdrátový ethernet
+* Protokol PPP
+* Protokoly IPv4 a IPv6
+** Adresování uzlů
+** Rozsahy adres
+** Struktura paketů
+** Fragmentace
+* IP na ethernetu
+** Hledání sousedů (ARP a NDP)
+** Automatická konfigurace adres (DHCP a NDP)
+** Zeroconf adresy
+* IP routing
+** Adresy zařízení, prefixy a masky
+** Směrovací tabulka, výchozí brána
+** Symetrické a asymetrické směrování
+** Výměna směrovacích informací (OSPF)
+* Chybové a řídící zprávy
+** Protokol ICMP
+* Transportní protokoly
+** Datové proudy (TCP)
+** Zprávy/datagramy (UDP)
+** MTU, MSS a PMTU discovery
+* Systém doménových jmen
+** DNS záznamy pro IP (A, AAAA, CNAME)
+** Autoritativní nameservery
+** Rekurzivní namservery (resolvery)
+** Záznamy pro služby (MX, SRV, TXT)
+** Multicast DNS
+* Aplikace
+** TCP nebo UDP
+** World Wide Web
+** Elektronická pošta
+** Rychlá textová komunikace
+** Síťové disky
+** Další 
+* Překlady síťových adres a proxying
+** Trasování spojení
+** Mapování veřejných a privátních IP
+** ICMP NAT
+** TCP/UDP NAT a proxy brány
+** Aplikační NAT a proxy
+* Firewalling
+** Filtrování podle zpětné cesty
+** Filtrování podle obsahu paketu
+** Stavové filtry
+** Aplikační filtry
+* Testování sítě
+** Ping (ICMP Echo)
+** Traceroute (TTL, Hop Limit)
+** Sledování paketů (sniffing)

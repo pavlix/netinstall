@@ -1,0 +1,31 @@
+Tag: tcp-ip-sit-na-linuxu-i
+Keywords: TCP/IP, Linux, PPP, IPv4, IPv6, DHCP, NDP, Ethernet, \
+Bridge, Switch, topologie, počítačová síť, TCP, UDP, NAT, \
+ping, traceroute
+
+= TCP/IP síť na Linuxu I
+
+V tomto kurzu se seznámíte se síťováním v Linuxu
+na všech vrstvách. Ujasníte si možnosti použití
+Linuxu v roli klienta, serveru i routeru.
+
+Délka kurzu: 2 dny
+
+Platforma: Linux
+
+Doporučené distribuce: Debian 6.0, Debian 5.0
+
+* Počítačové sítě
+* Architektura TCP/IP
+* Ethernet
+* Protokol PPP
+* Protokoly IPv4 a IPv6
+* IP na ethernetu
+* IP routing
+* Chybové a řídící zprávy
+* Transportní protokoly
+* Překlady jmen a adres
+* Aplikace
+* Překlady síťových adres a proxying
+* Testování sítě
+* Aktuální situace na poli TCP/IP

@@ -1,0 +1,73 @@
+Tag: programovani
+Name: Programování
+
+= Programování
+
+== Programátorské nástroje
+
+Některé nástroje dokážou opravdu ulehčit život nejen programátorů.
+Prominentním nástrojem je i systém správy verzí Git, používaný
+mimojiné i pro správu zdrojového stromu linuxového jádra.
+
+* **[[nastroje/git|Git]]** (správce zdrojových kódů)
+* Mercurial (správce zdrojových kódů)
+* GDB (příkazový interaktivní debugger)
+
+== Programovací jazyk C na Linuxu/Unixu
+
+Trojice kurzů programování v jazyce C pokrývá znalosti společné pro
+všechny operační systémy a práci s vývojářskými nástroji GNU. Kurzy
+probíhají na některém z unixových operačních systémů (Linux, BSD, Solaris
+a další). Pro procvičení získaných znalostí doporučuju programátorský workshop.
+
+* **[[c/programovani-v-c-na-linuxu-i|Programování v C na Linuxu I]]**
+* **[[c/programovani-v-c-na-linuxu-ii|Programování v C na Linuxu II]]**
+* [[c/programovani-v-c-na-linuxu-iii|Programování v C na Linuxu III]]
+* [[c/programovani-v-c-na-linuxu-iv|Programování v C na Linuxu IV]]
+* Workshop programování v C
+
+Rozšiřující kurzy specifické pro systémové programování v prostředí
+unixových operačních systémů (sada norem POSIX). Rozšiřující kurzy jsou vhodné
+pro programátory, kteří již ovládli jazyk C a chtějí proniknout do tajů
+programování aplikací pro Unix.
+
+* Soubory a sockety v Unixu (IPC, TCP/IP)
+* Procesy a vlákna v Unixu
+* Workshop pokročilého programování v Unixu
+
+Aplikační programování v jazyce C.
+
+* Glib, GObject a D-bus
+* Clutter a Mx toolkit
+
+== Programovací jazyk C++ na Unixu/Linuxu
+
+* [[cpp/programovani-v-cpp-i|Programování v C++ I]]
+* [[cpp/programovani-v-cpp-ii|Programování v C++ II]]
+* [[cpp/programovani-v-cpp-iii|Programování v C++ III]]
+* Workshop programování v C++
+
+== Programovací jazyk Python na Unixu/Linuxu
+
+* **[[python/programovani-v-pythonu-na-linuxu-i|Programování v Pythonu na Linuxu I]]**
+* **[[python/programovani-v-pythonu-na-linuxu-ii|Programování v Pythonu na Linuxu II]]**
+
+== Další programovací jazyky
+
+* Pascal
+* Lua
+* Ruby
+
+== Programátorská teorie
+
+Kvalitní programátor samozřejmě nezná jen programovací jazyky, ale také
+teorii a programátorské postupy. Mnoho praktických úkolů nelze
+bez teoretických znalostí vůbec vyřešit.
+
+* Principy počítačů a ukládání dat
+* Algoritmy a datové struktury
+* Objektově orientované programování
+* Automaty a gramatiky
+* Relační databáze
+* Síťové aplikace a protokoly
+* Webové aplikace

@@ -1,0 +1,26 @@
+Tag: protokol-ipv6
+
+= Protokol IPv6
+
+Na tomto kurzu se seznámíte s výhodami a riziky nasazení protokolu IPv6 ve vaší počítačové síti.
+Seznámíte se s rozdíly oproti stávajícímu protokolu IPv4 i možností nasazení IPv6 v sítích
+připojených pomocí IPv4. Kurz je teoretický a //nezahrnuje// práci s počítačem.
+
+Délka kurzu: 1 den
+
+Vstupní předpoklady: Povědomí o fungování sítí na protokolu IPv4.
+
+* Nedostatečný adresní rozsah IPv4
+* Detailní popis změn v adresování a struktuře paketů
+* Zápis IPv6 adres
+* Unicasting, multicasting a anycasting
+* Linkové, globální a lokální adresy
+* Autokonfigurace IPv6
+* Routing IPv6
+* Rozšíření systému DNS
+* Soukromí a bezpečnost
+* Šifrovaná komunikace, autentizace počítačů (IPsec)
+* Nativní IPv6 konektivita
+* Tunelovaná IPv6 konektivita
+* Propojování IPv4 a IPv6 sítí
+* Podpora IPv6 na desktopu, serverech a síťových prvcích

@@ -1,0 +1,12 @@
+Tag: prehled-opensource-virtualizacnich-technologii-pro-linux
+Keywords: Linux, virtualizace, LXC, OpenVZ, Xen, Qemu, KVM, VirtualBox
+
+= Přehled opensource virtualizačních technologií pro Linux
+
+Délka kurzu: 1 den
+
+* LXC a OpenVZ -- linuxové kontejnery
+* Xen
+* Qemu, KVM
+* VirtualBox
+* Další podle momentální situace na trhu

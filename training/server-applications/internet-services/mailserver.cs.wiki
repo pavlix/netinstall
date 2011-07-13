@@ -1,0 +1,24 @@
+Tag: postovni-server-na-linuxu
+
+= Poštovní server na Linuxu/Unixu
+
+Délka: 2 dny \\
+Vstupní překpoklady: Znalost administrace Linuxu
+nebo jiného unixového OS včetně síťové infrastruktury. \\
+Cíl kurzu: Seznámit se detailně s fungováním elektronické pošty
+a nakonfigurovat si vlastní poštovní server. \\
+Software: Postfix, Dovecot a další
+
+* Základní pojmy
+* Formát MIME
+* Protokoly SMTP, IMAP, POP a SIEVE
+* Přenos pošty (MTA)
+* Doručování pošty (MDA)
+* Databáze uživatelů a mailových adres
+* Vybírání pošty
+* Webmail
+* Autentizace
+* Techniky pro boj se spamem a viry
+* Falšování mailů a phishing
+* Spolehlivost a bezpečnost elektronické pošty
+* Aktuální situace v elektronické komunikaci

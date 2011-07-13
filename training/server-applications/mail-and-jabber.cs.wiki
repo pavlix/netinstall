@@ -1,0 +1,34 @@
+Tag: postovni-a-komunikacni-server-na-linuxu
+
+= Poštovní a komunikační server na Linuxu/Unixu \\ (e-mail, kontakty, jabber)
+
+V tomto kurzu se naučíte konfigurovat poštovní a komunikační
+server na Linuxu nebo jiném unixovém systému. Mezi probírané
+technologie patří například IMAP, POP3, SMTP, LDAP a
+XMPP~ (jabber).
+
+Délka kurzu: 3 dny
+
+Serverový software: Postfix, Dovecot, OpenLDAP, Prosody
+
+Klientský software: Thunderbird, SquirrelMail
+
+* Elektronická pošta
+** Základní pojmy (MTA, MDA, MUA)
+** Standardy
+** Poštovní adresy a DNS
+** Struktura správy
+** Protokoly (SMTP, LMTP, IMAP)
+** Uživatelé a schránky
+** Autentizace (SASL)
+** Ochrana proti SPAMu a virům
+** Filtrování pošty (sieve)
+* Adresářová služba
+** Protokol LDAP
+** Serverové seznamy kontaktů
+* Instant messaging
+** Protokol XMPP (jabber, gtalk)
+** Uživatelé
+** Autentizace (SASL)
+** Seznamy kontaktů
+** Autorizace kontaktů

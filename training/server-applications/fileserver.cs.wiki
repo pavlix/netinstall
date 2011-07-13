@@ -1,0 +1,16 @@
+Tag: souborovy-server-na-linuxu
+
+= Souborový server na Linuxu/Unixu
+
+V tomto kurzu se naučíte spravovat souborový
+server na Linuxu.
+
+Délka kurzu: 2 dny
+
+* Protokoly a služby pro sdílení souborů
+** NFS -- síťový filesystém
+** SSH, SFTP a SCP -- unixovské sdílení
+** FTP a FTPS
+** CIFS -- sdílení s Microsoft Windows
+** rsync -- efektivní kopírování
+** HTTP a WebDAV

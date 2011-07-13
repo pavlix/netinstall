@@ -1,0 +1,4 @@
+= Page not found
+
+Requested page was not found, please continue on the [[/en|main page]]. Also consider looking
+at the [[/cs|Czech version]].

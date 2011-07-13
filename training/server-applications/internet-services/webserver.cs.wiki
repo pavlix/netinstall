@@ -1,0 +1,19 @@
+Tag: webovy-server-na-linuxu
+
+= Webserver na Linuxu/Unixu
+
+Vstupní překpoklady: Znalost administrace Linuxu
+nebo jiného unixového OS včetně síťové infrastruktury. \\
+Cíl kurzu: Seznámit se s fungováním protokolu HTTP
+a základními principy webových aplikací a nakonfigurovat
+vlastní HTTP server a databáze.
+
+* Protokol HTTP
+* Aplikace CGI a FastCGI
+* Webový server Apache2
+* Webový server lighttpd
+* Databázový server MySQL
+* Databázový server PostgreSQL
+* Další alternativy
+* Řešení problémů, logy
+* Webové statistiky

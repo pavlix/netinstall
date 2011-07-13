@@ -1,0 +1,10 @@
+= Konfigurace a zabezpečení počítačových sítí
+
+* Návrh a stavba počítačových sítí
+* Výběr síťových prvků
+* Zabezpečení počítačových sítí
+* IPv4 i IPv6
+
+.meta {{{
+Tag: pocitacove-site
+}}}

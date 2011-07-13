@@ -1,0 +1,27 @@
+Tag: webovy-server-a-databaze-na-linuxu
+
+= Webový server a databáze na Linuxu/Unixu
+
+V tomto kurzu se naučíte spravovat webový server
+na Linuxu či jiném unixovém systému.
+
+Délka: 2 dny
+
+Serverový software: Apache, Lighttpd, PostgreSQL, MySQL
+
+* Základní pojmy webu
+** Protokol HTTP
+** DNS a virtuální hosting
+** Statické soubory (HTML, CSS a další)
+** Skriptování CGI a PHP
+** Skriptování FastCGI
+** Aplikační servery
+** HTTP proxy
+* Webový server Lighttpd
+** konfigurační soubor
+* Webový server Apache
+** konfigurační soubory
+** .htaccess a mod_rewrite
+* Databázový server PostgreSQL
+** Autentizace systémových uživatelů
+* Databázový server MySQL

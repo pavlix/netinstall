@@ -1,0 +1,25 @@
+Tag: certifikaty
+Keywords: certifikát, certifikační autorita, digitální podpis, \
+šifrování, asymetrická kryptografie, soukromý klíč, veřejný klíč
+
+= Šifrování, certifikáty a certifikačních autority na Linuxu (OpenSSL a GnuPG)
+
+V tomto školení se seznámíte s fungováním certifikační autority
+a vyzkoušíte si v praxi její konfiguraci. Seznámíte se i s dalšími
+možnostmi práce s šifrovacími klíči.
+
+Délka kurzu: 2 dny
+
+* Základní pojmy
+** Asymetrická kryptografie
+** Soukromé a veřejné klíče
+** Šifrování
+** Digitální podpis
+** Certifikát
+** Certifikační autorita
+** Žádost o certifikát
+** Síť důvery (web of trust)
+* Nástroje
+** OpenSSL
+** GnuPG
+** OpenSSH

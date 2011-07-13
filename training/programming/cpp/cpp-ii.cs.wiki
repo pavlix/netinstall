@@ -1,0 +1,23 @@
+Tag: programovani-v-c-ii
+
+= Programovnání v C II
+
+Délka kurzu: 3 dny
+Platforma: Linux (obecná použitelnost) \\
+Standard: ANSI/ISO \\
+Předpoklady: Znalosti v rozsahu základního kurzu
+
+V pokročilém kurzu se naučíte psát programy
+v programovacím jazyce C. Prakticky si vyzkoušíte
+ladění a opravování chyb.
+
+* Opakování základů
+* Rozdělení programu na funkce
+* Základní použití debuggeru GDB
+* Ukazatele a správa paměti
+* Operace s řetězci a poli
+* Přehled operátorů
+* Vlastní datové typy
+* Dynamické datové struktury
+* Používání modulů a hlavičkových souborů
+* Výběr funkcí standardní knihovny

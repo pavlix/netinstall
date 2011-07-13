@@ -1,4 +1,12 @@
+Title: Pavel Šimerda -- training, consultancy and other services in computer networking and unix operating systems
+Description: Training, consulting and other services by Pavel Šimerda.
+Keywords: training, server management, computer networks, computer security
+Copyright: cc-by-nd
+
 = Netinstall
+
+Warning: this website is incomplete, links are broken, for now, please stick to the
+[[/cs|Czech version]].
 
 I use this website to offer my services in server management,
 computer networking, Internet services and applications.
@@ -17,10 +25,3 @@ In case of interest or questions, you are welcome to [[contact]] me. You may als
 to review some of my [[references]].
 
 //Pavel Šimerda//
-
-.meta {{{
-Title: Pavel Šimerda -- training, consultancy and other services in computer networking and unix operating systems
-Description: Training, consulting and other services by Pavel Šimerda.
-Keywords: training, server management, computer networks, computer security
-Copyright: cc-by-nd
-}}}

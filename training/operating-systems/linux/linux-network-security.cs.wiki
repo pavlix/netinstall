@@ -1,0 +1,52 @@
+Tag: zabezpeceni-tcp-ip-na-linuxu
+Keywords: tcpip, zabezpečení, bezpečnost, linux, security
+
+= Zabezpečení TCP/IP na Linuxu
+
+V tomto kurzu se podíváme na počítačovou síť z hlediska zabezpečení.
+Převedeme si vybrané druhy útoků a zkusíme si proti nim vytvořit
+obranu. Některé oblasti zvládneme vyzkoušet pečlivěji, o jiných
+si budeme spíše povídat.
+
+Délka kurzu: 3 dny
+
+Předpokládané znalosti: Síťování na Linuxu v rozsahu kurzů [[tcp-ip-linux-i|TCP/IP síť na Linuxu I]]
+a [[tcp-ip-linux-ii|TCP/IP síť na Linuxu II]]
+
+Platforma: Linux
+
+Doporučené distribuce: Debian 6.0, Debian 5.0
+
+* Proč se starat o zabezpečení?
+** Cíle bezpečnosti
+* Nástroje pro simulaci síťového provozu
+* Ethernet
+** MAC address spoofing a flooding
+* IP nad ethernetem
+** ARP, NDP, DHCP spoofing
+* IP vrstva
+** IP address spoofing
+** ICMP
+** Source routing
+** rp_filter
+** IPsec
+* Transportní vrstva
+** TCP versus UDP
+** UDP NAT/Firewall traversal
+** NAT flooding
+* Aplikační vrstva
+** Zdroje aplikací
+** Chyby v aplikacích
+** Zadní vrátka
+** Malware
+* Napříč vrstvami
+** DoS a DDoS
+* Nástroje na obranu
+** sysctl
+** TCP Wrappers
+** Firewall (iptables, ip6tables)
+** Autentizace a autorizace
+** Šifrování
+** Podepisování
+** Virtualizace prostředků
+** Dimenzování sítě

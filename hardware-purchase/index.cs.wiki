@@ -1,0 +1,13 @@
+= Konzultace při nákupu hardware
+
+Nabízím konzultace při pořizování nových i repasovaných počítačů a síťových prvků,
+zejména z následujících oblastí.
+
+* Síťové prvky
+* Embedded zařízení
+* Minidesktopy a mininotebooky
+* Domácí a kancelářské servery
+
+.meta {{{
+Tag: nakup-hardware
+}}}

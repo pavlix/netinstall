@@ -1,0 +1,19 @@
+Tag: programovani-v-cpp-i
+
+= Programování v C++ I
+
+Délka kurzu: 3 dny
+Platforma: Linux (obecná platnost) \\
+Standard: ISO \\
+
+Základní kurz vám pomůže se zorientovat v programovacím jazyce
+C++. Naučíte se psát jednoduché prográmky a připravíte se na další
+rozvoj svých programátorských znalostí.
+
+* Textové editory vs integrovaná prostředí
+* První program
+* Základní datové typy
+* Práce s proměnnými a konstantami
+* Vstup a výstup (iostream)
+* Podmínky a cykly
+* Jednoduchá pole (vector)

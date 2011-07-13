@@ -1,0 +1,25 @@
+Tag: zaklady-prace-na-pocitaci-a-internetu-akce-opensource
+
+= Základy práce na počítači a Internetu (akce opensource)
+
+V rámci kurzu se seznámíte s kvalitními bezplatnými programy
+pro běžnou práci na celosvětové síti Internet i na vašem
+počítači. Kurz je určený pro počítačové začátečníky.
+
+Ke kurzu se používá pouze software s otevřenými zdrojovými kódy.
+
+Kurz lze na míru přizpůsobit konkrétní sadě opensource aplikací
+a konkrétní službě. Standardně se používají níže uvedené aplikace
+a služby společnosti Google (důvodem je široká podpora protokolů a služeb).
+
+Délka kurzu: 1 den
+
+Platforma: Linux, Windows
+
+== Předběžný seznam software
+
+* Mozilla Firefox (webový prohlížeč)
+* Mozilla Thunderbird (poštovní program)
+* Pidgin (program pro rychlé dopisování po Internetu)
+* OpenOffice Writer (program na psaní dokumentů)
+* Evince (prohlížeč PDF a Postscript)

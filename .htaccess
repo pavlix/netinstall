@@ -1,0 +1,21 @@
+RewriteEngine On
+RewriteBase /
+
+# rewrites (en) [R=301]
+RewriteRule ^en/contacts$ /en/ [R=301]
+RewriteRule ^eng/?$ /en/ [R=301]
+
+# czech is default
+RewriteRule ^$ /cs/ [R=301]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([a-z]*)$ /cs/$1 [R=303]
+
+# suppress .html
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^.]*[^./])$ $1.html [L]
+RewriteCond %{THE_REQUEST} "\.html "
+RewriteRule ^([^.]+).html$ $1 [R=301]
+RewriteCond %{THE_REQUEST} "[ /]index "
+RewriteRule ^(.*/)?index.html$ $1 [R=301]

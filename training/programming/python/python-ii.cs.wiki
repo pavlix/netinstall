@@ -1,0 +1,25 @@
+Tag: programovani-v-pythonu-ii
+
+= Programování v Pythonu II
+
+V tomto kurzu si rozšíříte své znalosty Pythonu
+a podíváme se hned na několik praktických témat.
+
+Délka kurzu: 3 dny
+
+Předpoklady: Znalost programování v Pythonu v rozsahu kurzu [[python-i|Python I]].
+
+Platforma: Linux
+
+* Pokročilá práce s interpretem
+* Klasické a nové třídy
+* Speciální metody
+* Generátory a iterátory
+* Přehled konstrukcí jazyka
+* Přehled datových typů
+* Unicode a kódování
+* Zpracování textu a regulární výrazy
+* Práce s datem a časem
+* Parsování argumentů příkazové řádky
+* Logování
+* Práce s databázemi

@@ -1,0 +1,10 @@
+Tag: programovani-v-c-iii
+
+= Programování v C III (zatím nevypisovat)
+
+Co se nevešlo...
+
+* Makra v C
+* GNU kompilátor
+* GNU make a soubory Makefile
+* GNU debugger

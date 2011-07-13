@@ -1,0 +1,25 @@
+Tag: administrace-linuxu-i-zaklady
+
+= Administrace Linuxu I (základy)
+
+V tomto kurzu si nainstalujete některou linuxovou distribuci
+a seznámíte se s základními vlastnostmi linuxového systému.
+
+Délka kurzu: 2 dny
+
+Platforma: Linux
+
+Doporučené distribuce: CentOS, OpenSUSE, Debian
+
+* Co je to Linux?
+* Instalace Linuxu
+* Instalace programů a balíčků
+* Dokumentace a zdroje informací
+* Virtuální systém souborů
+* Správa uživatelů a skupin
+* Systém unixových oprávnění (rwx)
+* Rozdělení disku a filesystémy
+* RAID a LVM
+* Hierarchie adresářů v Unixu a Linuxu
+* Základní práce v příkazové řádce
+* Aktuální situace ve světě opensource

@@ -1,0 +1,28 @@
+= ISPConfig -- mailserver, webserver a databáze
+
+V tomto školení si projdete kompletní instalaci linuxové distribuce se
+software ISPConfig na nový počítač. Ke školení //není// potřeba předchozí
+znalost administrace serverů.
+
+Uživatelé, kteří se chtějí poprvé seznámit s možností spravovat si svůj vlastní
+server pro poštu, web a DNS, jsou vítáni.
+
+Délka kurzu: 3 dny
+
+* Instalace
+** Instalace linuxové distribuce
+** Instalace všech potřebných balíků
+** Instalace ISPConfigu
+* Základní konfigurace
+** Správa systému
+** Správa klientů
+** Správa prodejců (resellers)
+* Konfigurace služeb
+** Elektronická pošta
+** Webový prostor
+** Databáze
+** Doménový server (nameservers)
+* Pokročilé nastavení služeb
+** Filtrování nevyžádané pošty (spamfiltr)
+** Vyzvedávání pošty z jiných serverů (fetchmail)
+** Pokročilé nastavení DNS a webových služeb

@@ -1,0 +1,23 @@
+Keywords: Linux, Netfilter, iptables, ip6tables, connection tracking, \
+conntrack, firewall
+
+= Linuxový firewall: netfilter, iptables, ip6tables
+
+V tomto kurzu se blíže seznámíte se zabudovaným
+linuxovým firewallem a naučíte se ho konfigurovat.
+
+Délka kurzu: 2 dny
+
+* Architektura netfilteru
+** Záchytné body
+** Tabulky
+** Connection tracking
+* Syntaxe iptables a ip6tables
+** Správa záznamů
+** Správa řetězů
+* Podmínky
+* Filtrování
+* Překlady adres
+* Přepisy paketů
+* Skriptování konfigurace firewallu
+* Testování firewallu

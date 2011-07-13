@@ -1,0 +1,28 @@
+Tag: ipv6-na-linuxu
+Keywords: IPv6, Linux, link-local, NDP, DHCPv6, \
+DNS, AAAA, MTU, PMTU, Internet
+
+= IPv6 na Linuxu
+
+Tento krátký kurz je určený speciálně pro zkušené
+správce sítí IPv4, kteří se chtějí seznámit
+s nastupujícím internetovým protokolem IPv6.
+
+Délka kurzu: 1 den
+
+Předpokládané znalosti: Dobrá znalost TCP/IP s protokolem IPv4
+
+Platforma: Linux
+
+Doporučená distribuce: Debian 6.0, Debian 5.0
+
+* Adresace
+* Link-local adresy
+* Dynamické přidělování adres
+** NDP
+** DHCPv6
+* Dynamické přečíslování
+* Objevování sousedů a MAC adres (NDP)
+* MTU a PMTU discovery
+* DNS a multicast DNS (Bind, Avahi)
+* Zero configuration networking

@@ -1,0 +1,26 @@
+Tag: programovani-v-c-na-linuxu-ii
+
+=== Programování v C na Linuxu II
+
+V pokročilém kurzu se naučíte psát programy
+v programovacím jazyce C. Prakticky si vyzkoušíte
+ladění a opravování chyb.
+
+Délka kurzu: 3 dny
+
+Platforma: Linux
+
+Standard: ANSI/ISO
+
+Předpoklady: Znalost programování na Linuxu v rozsahu kurzu [[c-i|Programování v C I]]
+
+* Opakování základů
+* Rozdělení programu na funkce
+* Základní použití debuggeru GDB
+* Ukazatele a správa paměti
+* Operace s řetězci a poli
+* Přehled operátorů
+* Vlastní datové typy
+* Dynamické datové struktury
+* Používání modulů a hlavičkových souborů
+* Výběr funkcí standardní knihovny

@@ -1,0 +1,6 @@
+Tag: programovani
+
+= Programování serverových a uživatelských aplikací
+
+Specializuju se na vývoj aplikací na opensource platformách (například Linux),
+převážně v programovacím jazyce C.

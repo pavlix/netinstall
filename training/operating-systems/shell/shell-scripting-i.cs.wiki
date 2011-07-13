@@ -1,0 +1,28 @@
+Tag: skriptovani-v-shellu-i
+Name: Skriptování v shellu I
+Keywords: školení, skriptování, shell, bash, \
+linux, unix
+
+= Skriptování v shellu I (základy)
+
+V tomto kurzu se naučíte základům skriptování pomocí
+unixového shellu, který se používá na Linuxu a dalších
+operačních systémech.
+
+Délka kurzu: 2 dny
+
+Platforma: Linux, BSD, Unix
+
+Software: Bash
+
+* Architektura shellu
+* Interaktivní shell
+* Tvorba skriptů
+* Absolutní a relativní cesty
+* Základní příkazy
+* Přesměrování vstupů a výstupů
+* Proměnné a parametry
+* Podmínky a cykly
+* Generované skripty
+* Funkce
+* Práce se signály

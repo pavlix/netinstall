@@ -1,0 +1,20 @@
+Tag: tvorba-a-zaclenovani-virtualnich-siti
+
+= Tvorba a začleňování virtuálních sítí
+
+V tomto kurzu si prakticky vyzkoušíte práci s virtuální sítí.
+
+Délka kurzu: 2 dny
+
+Software: dle dohody
+
+* Základy virtualizace
+* Virtuální TCP/IP stack
+* Virtuální ethernet
+* Routované virtuální sítě
+* Bridgované virtuální sítě
+* Technologie proxy arp
+* Bridgování mezi virtuální sítí a ethernetem
+* Connection tracking a ICMP Redirect
+* Firewall a NAT
+* Troubleshooting

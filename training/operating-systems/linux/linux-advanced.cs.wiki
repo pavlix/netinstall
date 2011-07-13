@@ -1,0 +1,30 @@
+Tag: administrace-linuxu-ii-pokrocile-techniky
+
+= Administrace Linuxu II (pokročilé techniky)
+
+V tomto kurzu budete zasvěceni do fungování linuxových
+operačních systémů. V praxi si vyzkoušíte základní
+práci s shellovskými skripty a plánovačem úloh.
+Dostanete se i k metodám zálohování souborového systému.
+
+Délka: 3 dny
+
+Předpokládané znalosti: Znalosti v rozsahu kurzu [[linux-administrace-i|Administrace Linuxu I]]
+
+Platforma: Linux
+
+Doporučené distribuce: CentOS, OpenSUSE, Debian
+
+* Rozšířený systém oprávnění
+* Správa procesů a signály
+* Přepínání uživatelů (su, sudo)
+* Automatizace a plánování úloh (at, cron)
+* Bootování systému (bootloader, kernel, init)
+* Systémové logy (syslog, logrotate)
+* Tisk v linuxu (ipp, lpd)
+* Architektura X11
+* Vzdálený shell SSH
+* Zálohování souborů a disků
+* Autentizační systém PAM
+* Napravování škod, rescue
+* Aktuální situace ve světě opensource

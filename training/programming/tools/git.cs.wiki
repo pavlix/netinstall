@@ -1,0 +1,38 @@
+Tag: git-spravce-zdrojovych-kodu
+
+= Git -- správce zdrojových kódů
+
+Seznámíte se s možnosti systému správy verzí zdrojových kódů Git,
+který používají i vývojáři linuxového jádra.
+
+Git je nástroj vhodný pro správu zdrojových kódů všech programovacích jazyků,
+ale i textů webových stránek. S úspěchem jde použít i k verzování
+binárních dat. Jeho využití sahá od jednoduchých
+webových dokumentů až po celé operační systémy. Oproti některým jiným
+systémům správy verzí je Git decentralizovaný, což velmi usnadňuje
+spolupráci vývojářů na jednom projektu a usnadní práci i samostatně pracujícímu
+uživateli. 
+
+Délka kurzu: 1 den
+
+Platforma: Linux (lze použít i na jiných)
+
+* Proč správa verzí?
+* Architektura Gitu
+** Struktura databáze
+** Typy objektů
+* Git v praxi
+** Uživatelská konfigurace
+** Založení repozitáře (clone, init)
+** Pracovní adresář a index (status, add, rm, stash)
+** Ukládání změn (commit)
+** Značkování (tag)
+** Procházení historie (show, diff, blame)
+** Práce s větvemi (checkout, branch, merge, rebase)
+** Vzdálené větve (remote, pull, push)
+* Webové a grafické rozhraní
+* Online spolupráce (TCP, SSH, WebDAV)
+* Offline spolupráce (format-patch, am, bundle)
+* Údržba (clean, reset, gc)
+* Modely spolupráce
+* Srovnání s CVS a Subversion

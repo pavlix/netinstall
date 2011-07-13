@@ -1,0 +1,25 @@
+Tag: skoleni
+
+= Školení
+
+== Odborná školení
+
+* **[[operacni-systemy|Operační systémy]]**
+* **[[pocitacove-site-a-internet|Počítačové sítě a Internet]]**
+* **[[serverove-aplikace|Serverové aplikace]]**
+* **[[programovani|Programování]]**
+
+== Uživatelská školení
+
+* [[internetove-sluzby|Internetové služby]]
+* **[[pracovni-stanice-a-notebooky|Pracovní stanice a notebooky]]**
+
+== Další informace
+
+* [[cenik-firemnich-skoleni|Ceník firemních školení]]
+* [[skolici-strediska|Informace pro školicí střediska]]
+
+== Odkazy
+
+* [[http://www.skoleni-kurzy-educity.cz/firmy/pavel-simerda-1274139|Profil na EduCity]]
+* [[http://akademie.blog.root.cz/|Moje i jiná školení na Akademii Root.cz]]

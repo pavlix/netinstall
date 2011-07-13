@@ -1,28 +1,34 @@
+Title: Pavel Šimerda – nabídka školení, konzultací a dalších služeb \
+v oblasti počítačových sítí a unixových operačních systémů
+Name: Netinstall
+Description: Školení, konzultace a další služby Pavla Šimerdy.
+Keywords: školení, správa serverů, počítačové sítě, počítačová bezpečnost
+Copyright: cc-by-nd
+
 = Netinstall
 
-Na této doméně nabízím sve služby v oblasti serverů, počítačových
+Nabízím školení, konzultace a další služby v oboru informačních technologií.
+Mojí specializací 
+
+Na této doméně nabízím své služby v oblasti serverů, počítačových
 sítí, internetových služeb a aplikací. Mými zákazníky jsou převážně
 firmy zaměřené na IT, ale spolupracuju i s firmami z jiných oborů.
 
-V mé nabídce najdete následující služby:
+Portfolio:
 
-* [[skoleni|Školení v oblasti počítačových sítí a unixových operačních systémů]]
-* [[sprava-serveru|Instalace a konfigurace serverů a aplikací]]
+* **[[skoleni|Školení v oblasti Internetu, TCP/IP, Linuxu a dalších]]**
+
+Vedlejší služby:
+
 * [[pocitacove-site|Konfigurace a zabezpečení počítačových sítí]]
-* [[hardware|Konzultace při nákupu hardware]]
-* [[konektivita|Konzultace při připojování k Internetu]]
+* [[sprava-serveru|Instalace a konfigurace serverů a serverových aplikací]]
+* [[programovani|Programování serverových i uživatelských aplikací]]
+* [[nakup-hardware|Konzultace při nákupu hardware]]
+* [[pripojeni-k-internetu|Konzultace při připojování k Internetu]]
 
 V případě zájmu nebo jakýchkoli dotazů mě [[kontakt|kontaktujte]], případně
 se můžete podívat na výběr z mých [[reference|referencí]].
 
 //Pavel Šimerda//
 
-.meta {{{
-#Tag: netinstall
-#Name: Netinstall
-Title: Pavel Šimerda -- nabídka školení, konzultací a dalších služeb \
-v oblasti počítačových sítí a unixových operačních systémů
-Description: Školení, konzultace a další služby Pavla Šimerdy.
-Keywords: školení, správa serverů, počítačové sítě, počítačová bezpečnost
-Copyright: cc-by-nd
-}}}
+Lektor a konzultant v oblasti Internetu a TCP/IP

@@ -1,0 +1,19 @@
+= Správa serverů a počítačových sítí
+
+== Instalace a správa unixových serverů
+
+Nabízím instalaci a vzdálenou správu serverů
+na operačních systémech Linux, BSD a dalších.
+Můžete využít i možnosti konzultace přímo ve vaší firmě.
+
+Pokud nemáte vlastní servery, pomůžu vám vybrat poskytovatele virtuálních či
+fyzycikých serverů.
+
+Společně se servery je možné připravit počítačovou síť a zařadit do ní i stolní
+a přenosné počítače.
+
+Můžete zároveň využít i [[../skoleni|nabídky školení]].
+
+.meta {{{
+Tag: sprava-serveru
+}}}

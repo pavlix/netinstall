@@ -1,0 +1,28 @@
+Tag: programovani-v-pythonu-i
+
+= Programování v Pythonu I
+
+V tomtu kurzu se seznámíte se základy programovacího jazyka Python.
+
+Délka kurzu: 3 dny
+
+Platforma: Linux
+
+* Používání interaktivního interpretu
+* Proměnné a přiřazení
+* Základní datové typy, operátory a vestavěné funkce
+** Číselné (int, long, float, bool)
+** Sekvence (list, tuple)
+** Mapy (dict)
+** Unicode textové řetězce (str/unicode)
+** Bajtové řetězce (bytes/str, bytearray)
+* Spouštění skriptů
+* Kompilace a bajtkód
+* Syntaxe a odsazování
+* Proměnné a základní datové typy
+* Podmínky a cykly
+* Moduly a balíčky
+* Práce se soubory a I/O
+* Ošetření výjimek
+* Základní práce s třídami a objekty
+* Střípky ze standardní knihovny

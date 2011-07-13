@@ -1,0 +1,18 @@
+Tag: pracovni-stanice-a-notebooky
+
+= Pracovní stanice a notebooky
+
+Ve spolupráci s dalšími lektory vám můžu nabídnout školení
+v oblasti pracovních stanic a notebooků pro firemní i domácí
+použití.
+
+== Základy práce na PC
+
+* Základy práce na PC s OS Linux (různých distribucí a verzí)
+* Základy práce na PC s Windows (různých verzí)
+
+== Akce: Otevřené zdrojové kódy
+
+* **[[zaklady-prace-na-pocitaci-a-internetu|Základy práce na počítači a Internetu]]**
+
+Dále doporučuju podívat se do sekce školení internetových služeb.

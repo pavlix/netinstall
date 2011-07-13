@@ -1,0 +1,32 @@
+Tag: bootovani-ze-site-a-bezdiskove-stanice-na-linuxu
+
+= Bootování ze sítě a bezdiskové stanice na Linuxu
+
+Bezdiskové stanice se používají v mnoha oblastech.
+Odpovědnost za data se přenáší na k tomuto účelu vyhrazené servery
+a disková pole. Na školení se naučíte vybudovat síť s diskovými
+stanicemi. Stejné technologie se používají i k síťovým instalacím
+a zkušebním prostředím.
+
+Délka kurzu: 3 dny
+
+Platforma: Linux
+
+Předpokládané znalosti: TCP/IP sítě na linuxu
+
+Doporučené distribuce: Debian 6.0, Debian 5.0
+
+* Instalace distribucí po TCP/IP
+* Spouštění live systémů po TCP/IP
+** služba //boot.kernel.org//
+** plnohodnotné spuštění OS po lokální síti
+* Bootování
+** Síťové karty
+** Jiná bootovací media
+** DHCP, BOOTP a TFTP
+** gPXE (Etherboot) a PXELINUX
+* Datová úložiště
+** Souborové systémy NFS, HTTPFS
+** Vzdálené disky iSCSI
+** Grafické terminály (tencí klienti) XDMCP, VNC
+* Síťové přihlašování

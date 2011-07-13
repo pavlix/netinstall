@@ -1,0 +1,39 @@
+Tag: pocitacove-site-a-internet
+
+= Počítačové sítě a Internet
+
+== Teoretická školení TCP/IP
+
+V této sekci najdete teoretická školení počítačových sítí,
+
+* **[[sada-internetovych-protokolu-tcp-ip|Sada internetových protokolů TCP/IP]]** (včetně IPv6)
+* **[[protokol-ipv6|Protokol IPv6]]** (jednodenní povídání o rozdílech oproti IPv4)
+* DNS -- podrobný pohled na jmenné služby
+* Principy dynamického routingu
+
+== Počítačové sítě na Linuxu
+
+Viz [[../operacni-systemy|operační systémy]].
+
+== Síťové prvky Mikrotik
+
+* TCP/IP síť na Mikrotik RouterOS I
+* TCP/IP síť na Mikrotik RouterOS II
+
+== Síťové prvky OpenWRT
+
+* Kompilace a instalace OpenWRT
+* TCP/IP síť na OpenWRT I
+* TCP/IP síť na OpenWRT II
+
+== Síťové servery a aplikace
+
+Viz **[[../serverove-aplikace/|serverové aplikace]]**.
+
+== Programování síťových aplikací
+
+Viz **[[../programovani|programování]]**.
+
+Rovněž by vás mohlo zajímat [[../programovani|programování]] síťových aplikací. Téma Internet je dále probíráno
+v uživatelských školeních [[../internet-services|internetových služeb]] a technických školeních
+[[../webove-stranky-a-dokumenty|webů a dokumentů]].

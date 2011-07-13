@@ -1,0 +1,64 @@
+Tag: internetove-sluzby
+
+= Internetové služby
+
+== Možnosti Internetu
+
+Nabízím školení na míru vašim potřebám složená
+z následujících témat:
+
+* Prohlížení webu a vyhledávání
+* Elektronická pošta
+* Rychlá textová komunikace (Jabber, ICQ, etc)
+* WWW stránky jednoduše a zdarma
+* Základy SEO, reklamy a marketingu
+
+== Konkrétní služby na Internetu
+
+* Google Apps -- služby na vlastní doméně
+** e-mail a rychlá textová komunikace
+** kalendář a sdílení událostí
+** webové stránky
+** kontextová reklama
+** další aplikace
+* Další služby podle dohody
+
+.meta {{{
+Tag: internetove-sluzby
+}}}
+
+== Webové formáty a standardy
+
+* Webové stránky v HTML (včetně XHTML a HTML5)
+* Kaskádové styly v CSS -- základy
+* Kaskádové styly v CSS -- layout
+* Datové formáty XML, RSS, Atom
+* Grafické formáty na webu
+* Možnosti protokolů HTTP a CGI
+
+== Tiskové formáty a standardy
+
+* Přehled formátů dokumentů a jejich použití -- PDF, ODF, OOXML, SVG, ...
+* Typografický systém TeX, LaTeX a XeTeX
+
+== Grafické formáty a standardy
+
+* Rastrová a vektorová grafika
+* Přehled grafických formátů a jejich použití -- PNG, MNG, JPEG, GIF, SVG, ...
+* Pokročilá práce s grafickými formáty
+
+== Datové formáty a standardy
+
+* Metaformát XML pro data a dokumenty
+* XSLT transformace
+* XSL-FO formátování
+
+== Tipy a triky
+
+* Webový server Apache a soubory .htaccess
+
+== Další informace
+
+Po zvládnutí základních webových technologií přirozeně přichází
+zájem poznat [[../servers-and-server-applications|technologie serverů]] a také možnosti [[../programming|programování]]
+webových aplikací.

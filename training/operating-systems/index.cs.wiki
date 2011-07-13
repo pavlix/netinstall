@@ -1,0 +1,69 @@
+Tag: operacni-systemy
+Name: Operační systémy
+Keywords: Školení, Linux, Administrace, TCPIP, TCP, IP, \
+netinstall, netboot, LXC, shell, IPv6, Debian, Fedora, RedHat, \
+RHEL, CentOS, Ubuntu, Unix, Virtualizace, Server, Počítač, Síť, \
+IT, certifikát, GnuPG, OpenSSL
+Description: Připravím pro vás na míru kurzy administrace operačních systémů Linux, FreeBSD a dalších. Linuxová školení běžně probíhají na distribucích CentOS, OpenSUSE a Debian. Distribuce CentOS je vhodná i pro uživatele Red Hat Enterprise Linux, OpenSUSE je vhodné pro uživatele SUSE Linux Enterprise Server, Debian patří mezi nejoblíbenější serverové operační systémy vůbec.
+
+= Operační systémy
+
+Připravím pro vás na míru kurzy administrace operačních systémů
+//Linux//, //FreeBSD// a dalších. Linuxová školení běžně probíhají na
+distribucích //CentOS//, //OpenSUSE// a Debian. Distribuce CentOS je
+vhodná i pro uživatele //Red Hat Enterprise Linux//, //OpenSUSE//
+je vhodné pro uživatele //SUSE Linux Enterprise Server//, //Debian//
+patří mezi nejoblíbenější serverové operační systémy vůbec.
+
+Volitelně lze uspořádat školení na některé z živějších distribucí jako
+například //Fedora//, //Ubuntu// i //Debian testing//, pokud přijmete
+riziko vyplývající z méně opatrných změn v těchto distribucích.
+
+== Administrace Linuxu
+
+Kromě kurzů na míru vám můžu nabídnout zavedené kurzy pořádané
+ve spolupráci se školicími středisky.
+
+* **[[linux/administrace-linuxu-i-zaklady|Administrace Linuxu I]]** (instalace a seznámení se systémem)
+* **[[linux/administrace-linuxu-ii-pokrocile-technikyi|Administrace Linuxu II]]** (konfigurace, údržba a zálohování)
+
+* **[[shell/skriptovani-v-shellu-i|Skriptování v shellu I]]** (základy)
+* **[[shell/skriptovani-v-shellu-ii|Skriptování v shellu II]]** (zpracování textových formátů (grep, sed, awk a další))
+
+== Počítačové sítě na Linuxu
+
+* **[[linux/tcp-ip-sit-na-linuxu-i|TCP/IP síť na Linuxu I]]** (klient, server, router, IPv4 i IPv6)
+* **[[linux/tcp-ip-sit-na-linuxu-ii|TCP/IP síť na Linuxu II]]** (dynamický routing, vpn, troubleshooting)
+* **[[linux/ipv6-na-linuxu|IPv6 na Linuxu]]** (pro zkušené síťaře)
+
+* Internetové registry a DNS
+
+== Bezpečnost na Linuxu
+
+* **[[linux/zabezpeceni-tcp-ip-na-linuxu|Zabezpečení TCP/IP na Linuxu]]** (klient, server i router)
+* **[[bezpecnost/certifikaty|Šifrování, certifikáty a certifikačních autority na Linuxu (OpenSSL a GnuPG)]]**
+* [[bezpecnost/antimalware|Antivirus, antispam, antimalware]]
+
+== Bootování ze sítě a bezdiskové stanice
+
+* **[[netboot/bootovani-ze-site-a-bezdiskove-stanice-na-linuxu|Bootování ze sítě a bezdiskové stanice na Linuxu]]**
+
+== Virtualizace na Linuxu
+
+* [[virtualizace/prehled-virtualizacnich-technologii|Přehled virtualizačních technologií]]
+* **[[virtualizace/lxc|Kontejnerová virtualizace na Linuxu (LXC)]]**
+* Kontejnerová virtualizace OpenVZ
+* Paravirtualizace Xen
+* [[virtualizace/virtualni-site|Tvorba a začleňování virtuálních sítí]]
+
+== Serverový software na Linuxu
+
+Viz **[[../serverove-aplikace|serverové aplikace]]**.
+
+== Programování na Linuxu
+
+Viz **[[../programovani|programování]]**.
+
+== Ostatní
+
+Na požádání pro vás připravím kurzy FreeBSD či OpenBSD.
