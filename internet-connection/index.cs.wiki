@@ -1,8 +1,8 @@
+Tag: pripojeni-k-internetu
+
 = Konzultace při připojování k Internetu
 
 * Výběr poskytovatele a technologie
 * Specifikace požadavků (veřejné adresy, rychlosti, odezva, ...)
 
-.meta {{{
-Tag: pripojeni-k-internetu
-}}}
+
