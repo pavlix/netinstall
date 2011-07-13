@@ -1,3 +1,5 @@
+Tag: sprava-serveru
+
 = Správa serverů a počítačových sítí
 
 == Instalace a správa unixových serverů
@@ -14,6 +16,4 @@ a přenosné počítače.
 
 Můžete zároveň využít i [[../skoleni|nabídky školení]].
 
-.meta {{{
-Tag: sprava-serveru
-}}}
+
