@@ -9,7 +9,7 @@ administrátory serverů.
 == Klasická administrace
 
 * **[[postovni-a-komunikacni-server-na-linuxu|Poštovní a komunikační server na Linuxu/Unixu (e-mail, kontakty a jabber)]]**
-* **[[webovy-a-databazovy-server-na-linuxu|Webový a databázový server na Linuxu/Unixu]]**
+* **[[webovy-server-a-databaze-na-linuxu|Webový a databázový server na Linuxu/Unixu]]**
 * **[[souborovy-server-na-linuxu|Souborový server na Linuxu/Unixu]]**
 
 == Nástroje pro správu

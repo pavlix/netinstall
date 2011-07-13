@@ -1,6 +1,6 @@
 Tag: tcp-ip-sit-na-linuxu-ii
-Keywords: TCP/IP, Linux, IPv4, IPv6, OSPF, OSPFv2, OSPFv3, \\
-proxy ARP, proxy NDP, iptables, ip6tables, netfilter, firewall,
+Keywords: TCP/IP, Linux, IPv4, IPv6, OSPF, OSPFv2, OSPFv3, \
+proxy ARP, proxy NDP, iptables, ip6tables, netfilter, firewall, \
 bridging
 
 = TCP/IP síť na Linuxu II
