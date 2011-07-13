@@ -44,7 +44,6 @@ Aplikační programování v jazyce C.
 
 * [[cpp/programovani-v-cpp-i|Programování v C++ I]]
 * [[cpp/programovani-v-cpp-ii|Programování v C++ II]]
-* [[cpp/programovani-v-cpp-iii|Programování v C++ III]]
 * Workshop programování v C++
 
 == Programovací jazyk Python na Unixu/Linuxu
