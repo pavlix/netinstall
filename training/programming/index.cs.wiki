@@ -48,8 +48,8 @@ Aplikační programování v jazyce C.
 
 == Programovací jazyk Python na Unixu/Linuxu
 
-* **[[python/programovani-v-pythonu-na-linuxu-i|Programování v Pythonu na Linuxu I]]**
-* **[[python/programovani-v-pythonu-na-linuxu-ii|Programování v Pythonu na Linuxu II]]**
+* **[[python/programovani-v-pythonu-i|Programování v Pythonu na Linuxu I]]**
+* **[[python/programovani-v-pythonu-ii|Programování v Pythonu na Linuxu II]]**
 
 == Další programovací jazyky
 
