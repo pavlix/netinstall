@@ -54,7 +54,7 @@ ve spolupráci se školicími středisky.
 * **[[virtualizace/kontejnerova-virtualizace-na-linuxu|Kontejnerová virtualizace na Linuxu (LXC)]]**
 * Kontejnerová virtualizace OpenVZ
 * Paravirtualizace Xen
-* [[virtualizace/virtualni-site|Tvorba a začleňování virtuálních sítí]]
+* [[virtualizace/tvorba-a-zaclenovani-virtualnich-siti|Tvorba a začleňování virtuálních sítí]]
 
 == Serverový software na Linuxu
 
