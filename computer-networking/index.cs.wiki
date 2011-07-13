@@ -1,3 +1,5 @@
+Tag: pocitacove-site
+
 = Konfigurace a zabezpečení počítačových sítí
 
 * Návrh a stavba počítačových sítí
@@ -5,6 +7,4 @@
 * Zabezpečení počítačových sítí
 * IPv4 i IPv6
 
-.meta {{{
-Tag: pocitacove-site
-}}}
+
