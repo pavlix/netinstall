@@ -9,7 +9,7 @@ Dostanete se i k metodám zálohování souborového systému.
 
 Délka: 3 dny
 
-Předpokládané znalosti: Znalosti v rozsahu kurzu [[linux-administrace-i|Administrace Linuxu I]]
+Předpokládané znalosti: Znalosti v rozsahu kurzu [[administrace-linuxu-i-zaklady|Administrace Linuxu I]]
 
 Platforma: Linux
 
