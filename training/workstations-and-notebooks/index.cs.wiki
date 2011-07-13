@@ -13,6 +13,6 @@ použití.
 
 == Akce: Otevřené zdrojové kódy
 
-* **[[zaklady-prace-na-pocitaci-a-internetu|Základy práce na počítači a Internetu]]**
+* **[[zaklady-prace-na-pocitaci-a-internetu-akce-opensource|Základy práce na počítači a Internetu]]**
 
 Dále doporučuju podívat se do sekce školení internetových služeb.
