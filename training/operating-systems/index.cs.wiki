@@ -50,7 +50,7 @@ ve spolupráci se školicími středisky.
 
 == Virtualizace na Linuxu
 
-* [[virtualizace/prehled-virtualizacnich-technologii|Přehled virtualizačních technologií]]
+* [[virtualizace/prehled-opensource-virtualizacnich-technologii-pro-linux|Přehled opensource virtualizačních technologií pro Linux]]
 * **[[virtualizace/lxc|Kontejnerová virtualizace na Linuxu (LXC)]]**
 * Kontejnerová virtualizace OpenVZ
 * Paravirtualizace Xen
