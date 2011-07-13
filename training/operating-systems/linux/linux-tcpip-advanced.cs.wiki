@@ -11,7 +11,7 @@ je určené mimojiné i pro správce poskytovatelských sítí.
 
 Délka kurzu: 3 dny
 
-Předpokládané znalosti: Znalost síťování v rozsahu kurzu [[tcp-ip-linux-i|TCP/IP síť na Linuxu I]]
+Předpokládané znalosti: Znalost síťování v rozsahu kurzu [[tcp-ip-sit-na-linuxu-i|TCP/IP síť na Linuxu I]]
 
 Platforma: Linux
 
