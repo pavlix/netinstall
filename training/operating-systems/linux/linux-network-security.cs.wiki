@@ -10,8 +10,8 @@ si budeme spíše povídat.
 
 Délka kurzu: 3 dny
 
-Předpokládané znalosti: Síťování na Linuxu v rozsahu kurzů [[tcp-ip-linux-i|TCP/IP síť na Linuxu I]]
-a [[tcp-ip-linux-ii|TCP/IP síť na Linuxu II]]
+Předpokládané znalosti: Síťování na Linuxu v rozsahu kurzů [[tcp-ip-sit-na-linuxu-i|TCP/IP síť na Linuxu I]]
+a [[tcp-ip-sit-na-linuxu-ii|TCP/IP síť na Linuxu II]]
 
 Platforma: Linux
 
