@@ -19,7 +19,7 @@ Tag: reference
 * Mladá fronta, a.s. – články pro časopis Connect
 * CPress Media – články po časopis Connect
 * TrainTime, s.r.o. – [[skoleni/pocitacove-site-a-internet/|příprava a realizace školení v oblasti TCP/IP]]
-* **[[http://www.gopas.cz/Clanek.aspx?IDClanku=65|Gopas, a.s.]]** – [[skoleni/operacni-systemy/|příprava a realizace školení v oblasti Linuxu a Unixu]]
+* **[[http://www.gopas.cz/|Gopas, a.s.]]** – [[skoleni/operacni-systemy/|příprava a realizace školení v oblasti Linuxu a Unixu]]
 * **[[http://www.xmpp.org|XMPP Standards Foundation]]** – podíl na připravování standardů XMPP
 * **[[http://www.abclinuxu.cz/|ABCLinuxu]]** – [[http://www.abclinuxu.cz/autori/pavel-simerda|články v oblasti linuxu, sítí a bezpečnosti]]
 * Redboss, s.r.o. – návrh databází a databázových aplikací pro distribuci her a aplikací
