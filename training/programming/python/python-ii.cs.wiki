@@ -7,7 +7,7 @@ a podíváme se hned na několik praktických témat.
 
 Délka kurzu: 3 dny
 
-Předpoklady: Znalost programování v Pythonu v rozsahu kurzu [[python-i|Python I]].
+Předpoklady: Znalost programování v Pythonu v rozsahu kurzu [[programovani-v-pythonu-i|Python I]].
 
 Platforma: Linux
 
