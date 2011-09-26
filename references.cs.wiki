@@ -2,6 +2,7 @@ Tag: reference
 
 = Vybrané reference
 
+* [[http://www.sps-br.cz/|SPŠ Bruntál]] – Školení IPv6
 * **[[http://www.skoda.cz/|ŠKODA AUTO a.s.]]** – Programátorská školení
 * **[[http://www.hp.com/|HP Enterprise Services]]** – Školení počítačových sítí (včetně IPv6)
 * **[[http://onas.seznam.cz/cz/|Seznam.cz, a.s.]]** – Školení počítačových sítí (včetně IPv6)

@@ -1,19 +1,18 @@
 Tag: sprava-serveru
 
-= Správa serverů a počítačových sítí
-
-== Instalace a správa unixových serverů
+= Správa serverů a internetových služeb
 
 Nabízím instalaci a vzdálenou správu serverů
 na operačních systémech Linux, BSD a dalších.
-Můžete využít i možnosti konzultace přímo ve vaší firmě.
+Můžete využít možnosti konzultací a školení
+ve vaší firmě.
 
-Pokud nemáte vlastní servery, pomůžu vám vybrat poskytovatele virtuálních či
-fyzycikých serverů.
+== Kanceláře
 
-Společně se servery je možné připravit počítačovou síť a zařadit do ní i stolní
-a přenosné počítače.
+* Instalace a konfigurace kancelářských serverů
+* Výběr hardware pro kancelářské servery
 
-Můžete zároveň využít i [[../skoleni|nabídky školení]].
+== Virtuální, dedikované a vlastní servery
 
-
+* Konfigurace internetových služeb
+* Výběr poskytovatele VPS, dedikovaných serverů či housingu

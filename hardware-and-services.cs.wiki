@@ -1,0 +1,27 @@
+Tag: nakup-hardware-a-sluzeb
+Alternative-Tag: nakup-hardware
+Alternative-Tag: pripojeni-k-internetu
+
+= Konzultace při nákupu hardware a služeb
+
+Nabízím konzultace při pořizování nových i repasovaných počítačů
+a při nákupu služeb v oblasti počítačových sítí a Internetu.
+
+== Hardware
+
+* Síťové prvky
+* Embedded zařízení
+* Domácí a kancelářské servery
+* Desktopy a notebooky
+* Minidesktopy, p4 a mininotebooky
+
+== Připojení k Internetu
+
+* Výběr poskytovatele
+* Výběr připojovací technologie (drátové i bezdrátové spoje)
+* Specifikace požadavků (veřejné adresy, rychlosti, odezva, ...)
+
+== Servery a hosting
+
+* Virtuální servery (VPS) a dedikované servery
+* Webhosting, mailhosting, filehosting

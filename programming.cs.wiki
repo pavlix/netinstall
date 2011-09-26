@@ -1,6 +1,18 @@
 Tag: programovani
 
-= Programování serverových a uživatelských aplikací
+= Programování aplikací
 
-Specializuju se na vývoj aplikací na opensource platformách (například Linux),
-převážně v programovacím jazyce C.
+Nabízím programování serverových i vestavěných
+uživatelských aplikací na linuxové nebo POSIX
+platformě.
+
+== Serverové aplikace
+
+* Serverové aplikace v C, Pythonu a jiných
+* Aplikace provázané s platformou (firewall, síťování)
+
+== Vestavěné uživatelské aplikace
+
+* Jednoúčelová a vestavěná zařízení
+* GUI aplikace pro vestavěná (embedded) zařízení
+* Spolupráce na projektech

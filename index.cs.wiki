@@ -14,17 +14,16 @@ Na této doméně nabízím své služby v oblasti serverů, počítačových
 sítí, internetových služeb a aplikací. Mými zákazníky jsou převážně
 firmy zaměřené na IT, ale spolupracuju i s firmami z jiných oborů.
 
-Portfolio:
+Školení a konzultace:
 
 * **[[skoleni|Školení v oblasti Internetu, TCP/IP, Linuxu a dalších]]**
 
-Vedlejší služby:
+Další služby:
 
 * [[pocitacove-site|Konfigurace a zabezpečení počítačových sítí]]
-* [[sprava-serveru|Instalace a konfigurace serverů a serverových aplikací]]
-* [[programovani|Programování serverových i uživatelských aplikací]]
-* [[nakup-hardware|Konzultace při nákupu hardware]]
-* [[pripojeni-k-internetu|Konzultace při připojování k Internetu]]
+* [[sprava-serveru|Instalace a konfigurace serverů a serverových aplikací, virtuální a fyzické servery]]
+* [[programovani|Programování serverových a vestavěných uživatelských aplikací]]
+* [[nakup-hardware-a-sluzeb|Konzultace při nákupu hardware a služeb]]
 
 V případě zájmu nebo jakýchkoli dotazů mě [[kontakt|kontaktujte]], případně
 se můžete podívat na výběr z mých [[reference|referencí]].

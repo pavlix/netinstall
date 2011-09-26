@@ -17,7 +17,7 @@ Platforma: Linux
 
 Doporučené distribuce: Debian 6.0, Debian 5.0
 
-* Průřez technologiemi TCP/IP
+* Průřez technologiemi TCP/IP včetně IPv6
 * Stavba testovací sítě
 * Dynamický routing: OSPFv2 a OSPFv3
 * Bridging, proxy ARP, proxy NDP

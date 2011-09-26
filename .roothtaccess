@@ -1,0 +1,16 @@
+RewriteEngine on
+RewriteBase /
+
+# suppress .html
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^.]*[^./])$ $1.html [L]
+RewriteCond %{THE_REQUEST} "\.html "
+RewriteRule ^([^.]+).html$ $1 [R=301]
+RewriteCond %{THE_REQUEST} "[ /]index "
+RewriteRule ^(.*/)?index.html$ $1 [R=301]
+
+# czech is default
+RewriteRule ^$ cs/services [R=303]
+RewriteRule ^cs/$ cs/services [R=303]
+

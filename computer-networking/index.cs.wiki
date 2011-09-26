@@ -2,9 +2,30 @@ Tag: pocitacove-site
 
 = Konfigurace a zabezpečení počítačových sítí
 
-* Návrh a stavba počítačových sítí
+Nabízím konzultace a realizace v oblasti
+počítačových sítí a Internetu.
+
+== Malé i větší kanceláře
+
+* Návrh a konfigurace firemních sítí TCP/IP (IPv4 a IPv6)
+* Výběr poskytovatele konektivity
+* Výběr kancelářských síťových prvků
+* Bezdrátové spoje mezi pobočkami
+* Konfigurace VPN tunelů a přístupů pro práci z domova
+* Zabezpečení firemních sítí
+* Konfigurace redundantní konektivity ve spolupráci s více ISP
+
+== Poskytovatelé konektivity
+
+* Zavádění nového protokolu IPv6
+* Dynamické směrování pro IPv6 i IPv4 (OSPF)
+* Peering, tranzit a autonomní systémy (BGP+)
+* Řešení problémů s překlady adres (NAT)
+* Omezování sítí a QoS
+* Testování sítí
+
+== Domácnosti
+
+* Výběr poskytovatele připojení
 * Výběr síťových prvků
-* Zabezpečení počítačových sítí
-* IPv4 i IPv6
-
-
+* Bezdrátové spoje

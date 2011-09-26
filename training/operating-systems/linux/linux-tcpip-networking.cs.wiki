@@ -17,15 +17,16 @@ Doporučené distribuce: Debian 6.0, Debian 5.0
 
 * Počítačové sítě
 * Architektura TCP/IP
-* Ethernet
+* Ethernet, bezdrátový ethernet
 * Protokol PPP
-* Protokoly IPv4 a IPv6
-* IP na ethernetu
+* Protokoly IPv6 a IPv4
+* IP na ethernetu (NDP, ARP)
 * IP routing
-* Chybové a řídící zprávy
-* Transportní protokoly
-* Překlady jmen a adres
-* Aplikace
-* Překlady síťových adres a proxying
+* Chybové a řídící zprávy (ICMP)
+* Transportní protokoly (UDP, TCP)
+* Překlady jmen a adres (DNS)
+* Překlady síťových a transportních adres (NAT)
+* Aplikace (HTTP, SMTP, vlastní protokoly)
+* Aplikační proxy
 * Testování sítě
 * Aktuální situace na poli TCP/IP
