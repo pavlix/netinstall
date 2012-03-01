@@ -8,18 +8,21 @@ Pavel Šimerda\\
 Krymská 56/39\\
 Praha 10, 101~ 00
 
-//Působím v celé České republice.//
-
-IČ: 76220508, neplátce DPH
+//Působím v celé České republice a jejím blízkém okolí.//
 
 Web: [[http://www.netinstall.cz/|www.netinstall.cz]] \\
 Mail: [[mailto:pavel.simerda@netinstall.cz|pavel.simerda@netinstall.cz]] \\
 Jabber: [[xmpp:pavel.simerda@netinstall.cz]] \\
-Telefon: [[phone:+420.775996256]]
+Telefon: +420~ 775~ 996~ 256
 
-.meta comment Bankovní spojení: 3657503036/5500, Raiffeisen Bank
+== Fakturace
 
-== Doporučený způsob komunikace
+IČ: 76220508, nejsem plátce DPH
+
+Faktury posílám v elekronické formě ve formátu PDF. Na požádání
+vám vystavím a odešlu podepsanou papírovou fakturu za manipulační poplatek 100 Kč.
+
+== E-mail a přílohy
 
 Veškeré informace, které mi chcete sdělit napište
 přímo do textu e-mailu. Pokud se nedomluvíme jinak, posílejte

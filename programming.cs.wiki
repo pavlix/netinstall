@@ -8,7 +8,7 @@ platformě.
 
 == Serverové aplikace
 
-* Serverové aplikace v C, Pythonu a jiných
+* Serverové aplikace v C a Pythonu
 * Aplikace provázané s platformou (firewall, síťování)
 
 == Vestavěné uživatelské aplikace

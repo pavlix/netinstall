@@ -2,26 +2,63 @@ Tag: reference
 
 = Vybrané reference
 
-* [[http://www.sps-br.cz/|SPŠ Bruntál]] – Školení IPv6
-* **[[http://www.skoda.cz/|ŠKODA AUTO a.s.]]** – Programátorská školení
-* **[[http://www.hp.com/|HP Enterprise Services]]** – Školení počítačových sítí (včetně IPv6)
-* **[[http://onas.seznam.cz/cz/|Seznam.cz, a.s.]]** – Školení počítačových sítí (včetně IPv6)
-* **[[http://www.lica.cz/|LICA, s.r.o.]]** – [[programovani|programování embedded aplikace v C a Clutter na POSIX platformě (Linux MeeGo)]]
-* HB Media s.r.o. – [[sprava-serveru|instalace a údržba firemní počítačové sítě s VPN a serverů]]
-* [[http://www.wendulka.net/|Wendulka.net]] – [[pocitacove-site|inovace ISP sítě s prvky Mikrotik (OSPF, BGP a IPv6)]], instalace a údržba serverů (Debian)
-* [[http://www.sitour.cz/|Sitour Česká Republika, s.r.o.]] – [[skoleni/operacni-systemy/|školení sítí TCP/IP na Linuxu]]
-* **[[http://www.janus.cz/|JANUS spol. s r.o.]]** – [[programovani|programování systémové služby pro POSIX platformu (Linux)]]
-* [[http://www.mdpraha.cz/|Management Data Praha, s.r.o.]] – [[sprava-serveru|konzultace při správě linuxových serverů (CentOS, Fedora)]]
-* [[http://www.portals.cz/|PORTALS Czech Republic, s.r.o.]] – [[skoleni|školení a poradenství]], [[sprava-serveru|zajištění a správa vývojářských serverů, školení Git]]
-* [[http://www.unityone.cz/|Unity One a.s.]] – [[sprava-serveru|instalace a konfigurace serveru (Linux)]]
-* [[http://www.aithera.cz/kontakt|AITHERA, s.r.o.]] – mailhosting, webhosting, pořízení, [[nakup-hardware|instalace a správa kancelářského serveru]], konzultace
-* **[[http://www.soitron.cz/|SOITRON, s.r.o (dříve ClarioNet, s.r.o)]]** – [[skoleni/operacni-systemy|příprava a realizace školení v oblasti počítačových sítí a Linuxu (Novell SUSE)]]
-* **[[http://www.iinfo.cz/o-nas/|Internet Info, s.r.o.]]** – [[skoleni/operacni-systemy|příprava a realizace školení v oblasti počítačových sítí na Linuxu]]
-* Mladá fronta, a.s. – články pro časopis Connect
+== Školení pro školicí střediska
+
+* [[http://www.gopas.cz/|Gopas, a.s.]]
+* TrainTime, s.r.o.
+* [[http://www.clarionet.cz/|ClarioNet, s.r.o]]
+* [[http://www.iinfo.cz/o-nas/|Internet Info, s.r.o.]]
+* [[http://www.soitron.cz/|SOITRON, s.r.o]] (dříve ClarioNet, viz výše)
+* [[http://www.elostech.cz/|ELOS Technologies, s.r.o.]]
+
+== Školení počítačových sítí pro firmy (TCP/IP, IPv6)
+
+* [[http://onas.seznam.cz/cz/|Seznam.cz, a.s.]]
+* [[http://www.hp.com/|HP Enterprise Services]]
+* [[http://www.sps-br.cz/|SPŠ Bruntál]]
+
+== Programátorská školení pro firmy (C, Python, Git)
+
+* [[http://www.sitour.cz/|Sitour Česká Republika, s.r.o.]]
+* [[http://www.skoda.cz/|ŠKODA AUTO a.s.]]
+* MECAS ESI, s.r.o.
+* [[http://www.portals.cz/|PORTALS Czech Republic, s.r.o.]]
+
+== Konzultace
+
+* [[http://www.mdpraha.cz/|Management Data Praha, s.r.o.]]
+
+== Realizace (počítačové sítě, servery, ústředny)
+
+* [[http://www.wendulka.net/|Wendulka.net]]
+* [[http://www.aithera.cz/kontakt|AITHERA, s.r.o.]]
+* [[http://www.portals.cz/|PORTALS Czech Republic, s.r.o.]]
+* [[http://www.hbmedia.cz/|HB Media s.r.o.]]
+* [[http://www.unityone.cz/|Unity One a.s.]]
+* [[http://www.eurosignal.cz/|Družstvo EUROSIGNAL]]
+
+== Realizace (vývoj software)
+
+* [[http://www.smartdata.cz/|Smartdata, s.r.o.]]
+* [[http://www.redboss.cz/|Redboss, s.r.o.]]
+* [[http://www.janus.cz/|JANUS spol. s r.o.]]
+* [[http://www.lica.cz/|LICA, s.r.o.]]
+
+== Psaní článků
+
+* [[http://www.abclinuxu.cz/|ABCLinuxu]]
 * CPress Media – články po časopis Connect
-* TrainTime, s.r.o. – [[skoleni/pocitacove-site-a-internet/|příprava a realizace školení v oblasti TCP/IP]]
-* **[[http://www.gopas.cz/|Gopas, a.s.]]** – [[skoleni/operacni-systemy/|příprava a realizace školení v oblasti Linuxu a Unixu]]
-* **[[http://www.xmpp.org|XMPP Standards Foundation]]** – podíl na připravování standardů XMPP
-* **[[http://www.abclinuxu.cz/|ABCLinuxu]]** – [[http://www.abclinuxu.cz/autori/pavel-simerda|články v oblasti linuxu, sítí a bezpečnosti]]
-* Redboss, s.r.o. – návrh databází a databázových aplikací pro distribuci her a aplikací
-* **[[http://www.smartdata.cz/|Smartdata, s.r.o.]]** – poradenství v oblasti sítí a bezpečnosti, [[programovani|programování embedded aplikace (Python, Linux)]]
+* Mladá fronta, a.s. – články pro časopis Connect
+
+== Nekomerční aktivity v oboru
+
+* [[http://www.xmpp.org|XMPP Standards Foundation]]
+* [[http://www.fedoraproject.org|Fedora Linux]] (správce IPsec balíků Strongswan a Racoon2)
+
+== Přednášení na konferencích
+
+* [[http://www.europen.cz/|EurOpen.CZ]]
+* [[http://www.linuxalt.cz/|LinuxAlt]]
+* [[http://www.ors.slu.cz/|Opensource řešení v sítích]]
+* [[http://www.internetprovsechny.cz/|Kam kráčí české bezdrátové sítě]]
+* [[http://www.devconf.cz/|Fedora Developer Conference]]

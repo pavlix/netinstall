@@ -2,8 +2,12 @@ Tag: programovani-v-pythonu-ii
 
 = Programování v Pythonu II
 
-V tomto kurzu si rozšíříte své znalosty Pythonu
-a podíváme se hned na několik praktických témat.
+Druhý kurz programování v Pythonu navazuje
+na znalosti získané v prvním kurzu. Vedle náročných
+témat jsou pro vás připravené praktické ukázky
+a úkoly. Nahlédnete do zákoutí
+Pythonu a získáte přehled o tom, co vám tento jazyk
+a jeho rozsáhlá standardní knihovna můžou nabídnout.
 
 Délka kurzu: 3 dny
 
@@ -11,15 +15,26 @@ Předpoklady: Znalost programování v Pythonu v rozsahu kurzu [[programovani-v-
 
 Platforma: Linux
 
-* Pokročilá práce s interpretem
-* Klasické a nové třídy
+* Opakování (interpret, kompilace, objekty)
+* Podrobný rozbor rozdílů mezi řadami 3.x a 2.x
+* Balíčky, moduly, import, __import__
+* Funkce, seznam argumentů, slovník argumentů
+* Dokumentace zdrojových kódů
+* Třídy, metody, atributy
 * Speciální metody
+* Statické metody a metody třídy
+* Dekorátory funkcí a metod
 * Generátory a iterátory
-* Přehled konstrukcí jazyka
-* Přehled datových typů
-* Unicode a kódování
+* Nástroje pro HTTP aplikace
+* Tvorba a zachytávání výjimek
+* Logování a ladění programů
 * Zpracování textu a regulární výrazy
-* Práce s datem a časem
-* Parsování argumentů příkazové řádky
-* Logování
-* Práce s databázemi
+* Testování a vývoj řízený testy
+* Zpracování argumentů příkazové řádky
+* Práce s časovými údaji a kalendářem
+* Přístup k databázovým systémům
+* Dynamické generování kódu
+* Paralelní zpracování, vlákna a procesy
+* Přehled dostupné literatury
+
+Tento kurz je relativně náročný. Pokud jste v Pythonu spíše začátečníky, doporučuju vám začít předchozím kurzem nebo si nechat postavit kurz na míru vašim potřebám.
