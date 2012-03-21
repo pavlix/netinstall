@@ -5,7 +5,7 @@ Tag: programovani-v-cpp-ii
 Délka kurzu: 3 dny
 Platforma: Linux (obecná použitelnost) \\
 Standard: ANSI/ISO \\
-Předpoklady: Znalosti v rozsahu základního kurzu
+Předpoklady: Znalosti v rozsahu základního kurzu [[programovani-v-cpp-i|Programování v C++ I]]
 
 V pokročilém kurzu se naučíte psát programy
 v programovacím jazyce C. Prakticky si vyzkoušíte
