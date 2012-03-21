@@ -22,9 +22,10 @@ Name: Reference
 == Programátorská školení pro firmy (C, Python, Git)
 
 * [[http://www.skoda.cz/|ŠKODA AUTO a.s.]]
-* MECAS ESI, s.r.o.
+* [[http://www.esi-group.com/cz/|MECAS ESI, s.r.o.]]
 * [[http://www.portals.cz/|PORTALS Czech Republic, s.r.o.]]
 * [[http://www.homecredit.net/|Home Credit International a.s.]]
+* [[http://www.cmi.cz/|Český hydrometeorologický ústav]]
 
 == Konzultace
 
@@ -39,7 +40,7 @@ Name: Reference
 * [[http://www.aithera.cz/kontakt|AITHERA, s.r.o.]]
 * [[http://www.portals.cz/|PORTALS Czech Republic, s.r.o.]]
 * [[http://www.hbmedia.cz/|HB Media s.r.o.]]
-* [[http://www.unityone.cz/|Unity One a.s.]]
+* Unity One a.s.
 * [[http://www.eurosignal.cz/|Družstvo EUROSIGNAL]]
 
 == Realizace (vývoj software)
@@ -64,6 +65,6 @@ Name: Reference
 
 * [[http://www.europen.cz/|EurOpen.CZ]]
 * [[http://www.linuxalt.cz/|LinuxAlt]]
-* [[http://www.ors.slu.cz/|Opensource řešení v sítích]]
+* [[http://ors.slu.cz/|Opensource řešení v sítích]]
 * [[http://www.internetprovsechny.cz/|Kam kráčí české bezdrátové sítě]]
 * [[http://www.devconf.cz/|Fedora Developer Conference]]
