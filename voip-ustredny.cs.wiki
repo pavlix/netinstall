@@ -1,0 +1,5 @@
+= VoIP ústředny a telefonování
+
+Nabízím konzultace v oblasti internetového telefonování firmám
+i jednotlivcům a konfigurace softwarových telefonních ústředen
+založených na programech Asterisk a Freeswitch.

@@ -10,16 +10,18 @@ a při nákupu služeb v oblasti počítačových sítí a Internetu.
 == Hardware
 
 * Síťové prvky
-* Embedded zařízení
-* Domácí a kancelářské servery
+* Vestavěná zařízení (embedded)
+* Kancelářské a domácí servery a VoIP ústředny
+* Servery do datacenter
 * Desktopy a notebooky
-* Minidesktopy, p4 a mininotebooky
+* Minidesktopy a mininotebooky
 
 == Připojení k Internetu
 
-* Výběr poskytovatele
+* Výběr poskytovatele připojení
 * Výběr připojovací technologie (drátové i bezdrátové spoje)
 * Specifikace požadavků (veřejné adresy, rychlosti, odezva, ...)
+* Výběr tarifu
 
 == Servery a hosting
 

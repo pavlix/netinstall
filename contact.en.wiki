@@ -1,0 +1,37 @@
+Tag: contact
+Name: Contact
+
+= Contact
+
+== Contact information
+
+Pavel Šimerda\\
+Krymská 56/39\\
+Prague 10, 101~ 00\\
+Czech Republic
+
+//I work throughout Czech Republic and in the near neighborhood.//
+
+Web: [[http://www.netinstall.cz/en/|www.netinstall.cz]] \\
+Mail: [[mailto:pavel.simerda@netinstall.cz|pavel.simerda@netinstall.cz]] \\
+Jabber: [[xmpp:pavel.simerda@netinstall.cz]] \\
+Phone: +420~ 775~ 996~ 256
+
+== Invoicing details
+
+Identification: 76220508, not VAT registered
+
+You will recieve invoices in electronic form in PDF format. Upon your request, I will send you a signed
+paper copy for an additional fee of 100 CZK.
+
+== E-mail and attachments
+
+Please put all information you want to provide directly to the e-mail text. Unless agreed in advance, plase use the following formats for attachments:
+
+* PDF – universal format for documents intended to be viewed and printed
+* EPS, SVG – graphical items, logos and other (only for vector graphics)
+* JPEG – photographs
+* PNG – screenshots and previews
+* TAR, ZIP, 7-ZIP – archives (only if you send a large number of files)
+
+Suitable formats can very much improve the flow of our communication.

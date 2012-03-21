@@ -4,15 +4,15 @@ Tag: skoleni
 
 == Odborná školení
 
-* **[[operacni-systemy|Operační systémy]]**
-* **[[pocitacove-site-a-internet|Počítačové sítě a Internet]]**
-* **[[serverove-aplikace|Serverové aplikace]]**
-* **[[programovani|Programování]]**
+* [[operacni-systemy|Operační systémy]]
+* [[pocitacove-site-a-internet|Počítačové sítě a Internet]]
+* [[serverove-aplikace|Serverové aplikace]]
+* [[programovani|Programování]]
 
 == Uživatelská školení
 
 * [[internetove-sluzby|Internetové služby]]
-* **[[pracovni-stanice-a-notebooky|Pracovní stanice a notebooky]]**
+* [[pracovni-stanice-a-notebooky|Pracovní stanice a notebooky]]
 
 == Další informace
 

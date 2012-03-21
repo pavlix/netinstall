@@ -1,39 +1,39 @@
-Tag: reference
-Name: Reference
+Tag: references
+Name: References
 
-= Vybrané reference
+= Selected references
 
-== Školení pro školicí střediska
+== Training for training centers
 
 * [[http://www.gopas.cz/|Gopas, a.s.]]
-* TrainTime, s.r.o.
+* TrainTime, s.r.o
 * [[http://www.clarionet.cz/|ClarioNet, s.r.o]]
 * [[http://www.iinfo.cz/|Internet Info, s.r.o.]]
 * [[http://www.soitron.cz/|SOITRON, s.r.o]]
 * [[http://www.elostech.cz/|ELOS Technologies, s.r.o.]]
 
-== Školení počítačových sítí pro firmy (TCP/IP, IPv6)
+== Training computer networking for companies (TCP/IP, IPv6)
 
 * [[http://www.sitour.cz/|Sitour Česká Republika, s.r.o.]]
 * [[http://onas.seznam.cz/cz/|Seznam.cz, a.s.]]
 * [[http://www.hp.com/|HP Enterprise Services]]
 * [[http://www.sps-br.cz/|SPŠ Bruntál]]
 
-== Programátorská školení pro firmy (C, Python, Git)
+== Training programming for companies (C, Python, Git)
 
 * [[http://www.skoda.cz/|ŠKODA AUTO a.s.]]
 * MECAS ESI, s.r.o.
 * [[http://www.portals.cz/|PORTALS Czech Republic, s.r.o.]]
 * [[http://www.homecredit.net/|Home Credit International a.s.]]
 
-== Konzultace
+== Consulting
 
 * [[http://www.smartdata.cz/|Smartdata, s.r.o.]]
 * [[http://www.mdpraha.cz/|Management Data Praha, s.r.o.]]
 * [[http://www.wendulka.net/|Wendulka.net]]
 * [[http://www.hbmedia.cz/|HB Media s.r.o.]]
 
-== Realizace (počítačové sítě, servery, ústředny)
+== Realizations (computer netowrks, servers, VoIP switches)
 
 * [[http://www.wendulka.net/|Wendulka.net]]
 * [[http://www.aithera.cz/kontakt|AITHERA, s.r.o.]]
@@ -42,25 +42,25 @@ Name: Reference
 * [[http://www.unityone.cz/|Unity One a.s.]]
 * [[http://www.eurosignal.cz/|Družstvo EUROSIGNAL]]
 
-== Realizace (vývoj software)
+== Realizations (software development)
 
 * [[http://www.smartdata.cz/|Smartdata, s.r.o.]]
 * [[http://www.redboss.cz/|Redboss, s.r.o.]]
 * [[http://www.janus.cz/|JANUS spol. s r.o.]]
 * [[http://www.lica.cz/|LICA, s.r.o.]]
 
-== Psaní článků
+== Article writing
 
 * [[http://www.abclinuxu.cz/|ABCLinuxu]]
-* CPress Media – články po časopis Connect
-* Mladá fronta, a.s. – články pro časopis Connect
+* CPress Media – articles for Connect
+* Mladá fronta, a.s. – articles for Connect
 
-== Nekomerční aktivity v oboru
+== Non-commercial activities
 
 * [[http://www.xmpp.org|XMPP Standards Foundation]]
-* [[http://www.fedoraproject.org|Fedora Linux]] (správce IPsec balíků Strongswan a Racoon2)
+* [[http://www.fedoraproject.org|Fedora Linux]] (maintainer of Strongswan and Racoon2 packages)
 
-== Přednášení na konferencích
+== Conference talking
 
 * [[http://www.europen.cz/|EurOpen.CZ]]
 * [[http://www.linuxalt.cz/|LinuxAlt]]
