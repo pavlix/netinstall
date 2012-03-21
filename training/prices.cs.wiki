@@ -8,38 +8,24 @@ Ceny školení na objednávku platí pro firemní školení pořádaná ve vaši
 
 Cena za jeden den:
 
-1 osoba: 4000 Kč \\
-2 osoby: 6000 Kč \\
-3 osoby: 7000 Kč \\
-4 osoby: 8000 Kč \\
+1 osoba: 4500 Kč \\
+2 osoby: 7000 Kč \\
+3 osoby: 8000 Kč \\
+4 osoby: 9000 Kč \\
 Více osob: cena dohodou
 
-Cestovné po ČR zdarma při objednávce od 6000 Kč.
+Cestovné po ČR zdarma při objednávce od 7000 Kč.
 
 == Uživatelská školení na objednávku
 
 Cena za jeden den:
 
-1 osoba: 3000 Kč \\
-2 osoby: 4000 Kč \\
-3 osoby: 4500 Kč \\
-4 osoby: 5000 Kč \\
+1 osoba: 2000 Kč \\
+2 osoby: 3000 Kč \\
+3 osoby: 3500 Kč \\
+4 osoby: 4000 Kč \\
 Více osob: cena dohodou
 
-Cestovné po ČR zdarma při objednávce od 6000 Kč.
+Cestovné po ČR zdarma při objednávce od 7000 Kč.
 
-== Akce: Otevřené zdrojové kódy
 
-Tato akce se týká neziskového sektoru a spadají pod ní //uživatelská//
-školení, která se realizují
-pouze pomocí software dostupného pod některou otevřenou licencí
-(ve smyslu opensource či svobodného software).
-
-To nevylučuje použití komerčního opensource řešení.
-
-Cena za den:
-
-1 osoba: 2000 Kč / 1 den
-Více: dohodou
-
-Cestovné po ČR zdarma při objednávce od 6000 Kč.
