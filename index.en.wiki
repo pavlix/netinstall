@@ -5,13 +5,13 @@ Copyright: cc-by-nd
 
 = Netinstall
 
-Warning: this website is incomplete, links are broken, for now, please stick to the
-[[/cs|Czech version]].
+Warning: The English version of this website is incomplete. Please see the [[/cs|Czech version]] or [[contact|contact me]].
 
-I use this website to offer my services in server management,
-computer networking, Internet services and applications.
-My customers are mostly IT companies but I also work for
-companies in other fields.
+I offer training, consultancy and other services in information technology. My specialization includes
+computer networking, internet servers and internet applications. My customers are mostly from technology or computing fields.
+
+I live in Prague, Czech republic and work throughout
+my country and around.
 
 Training and consultancy:
 
@@ -19,10 +19,14 @@ Training and consultancy:
 
 Other services:
 
-* [[server-management|Installation and configuration of servers and applications]]
-* [[computer-networking|Configuration and securing computer networks]]
-* [[hardware|Hardware purchase consulting]]
-* [[connectivity|Internet connectivity consulting]]
+* Installation and configuration of servers and server applications
+
+* Configuration and security of computer networks
+* Installation and configuration of servers and applications
+* Configuration and securing computer networks
+* Programming server aplications and embedded software
+* Hardware purchase consulting
+* Internet connectivity consulting
 
 In case of interest or questions, you are welcome to [[contact]] me. You may also want
 to review some of my [[references]].

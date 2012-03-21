@@ -6,7 +6,8 @@ Tag: kontakt
 
 Pavel Šimerda\\
 Krymská 56/39\\
-Praha 10, 101~ 00
+Praha 10, 101~ 00\\
+Česká republika
 
 //Působím v celé České republice a jejím blízkém okolí.//
 
@@ -24,9 +25,9 @@ vám vystavím a odešlu podepsanou papírovou fakturu za manipulační poplatek
 
 == E-mail a přílohy
 
-Veškeré informace, které mi chcete sdělit napište
+Veškeré informace, které mi chcete předat, napište
 přímo do textu e-mailu. Pokud se nedomluvíme jinak, posílejte
-doplňkové materiály v následujících formátech:
+doplňující materiály v následujících formátech:
 
 * PDF -- univerzální formát pro dokumenty připravené k prohlížení a tisku
 * EPS, SVG -- grafické prvky, loga a podobné (jen vektorová grafika)

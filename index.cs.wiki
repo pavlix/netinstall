@@ -7,9 +7,13 @@ Copyright: cc-by-nd
 
 = Netinstall
 
+//For information in English see the [[/en/|English version]].//
+
 Nabízím školení, konzultace a další služby v oboru informačních technologií.
-Mojí specializací jsou počítačové sítě, internetové servery a aplikace.
-Mými zákazníky jsou převážně firmy v technologických a informatických odvětvích.
+Mojí specializací jsou počítačové sítě, internetové servery a internetové aplikace.
+Mými zákazníky jsou převážně firmy z technologických a informatických odvětví.
+
+Žiju v Praze, působím v České republice a blízkém okolí.
 
 Školení a konzultace:
 
@@ -18,7 +22,7 @@ Mými zákazníky jsou převážně firmy v technologických a informatických o
 Další služby:
 
 * [[pocitacove-site|Konfigurace a zabezpečení počítačových sítí]]
-* [[sprava-serveru|Instalace a konfigurace serverů a serverových aplikací, virtuální a fyzické servery]]
+* [[sprava-serveru|Instalace a konfigurace serverů a serverových aplikací]]
 * [[voip-ustredny|Instalace a konfigurace VoIP ústředen a telefonních systémů]]
 * [[programovani|Programování serverových a vestavěných uživatelských aplikací]]
 * [[nakup-hardware-a-sluzeb|Konzultace při nákupu hardware a služeb]]

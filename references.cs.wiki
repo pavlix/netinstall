@@ -1,4 +1,5 @@
 Tag: reference
+Name: Reference
 
 = Vybrané reference
 
@@ -7,26 +8,30 @@ Tag: reference
 * [[http://www.gopas.cz/|Gopas, a.s.]]
 * TrainTime, s.r.o.
 * [[http://www.clarionet.cz/|ClarioNet, s.r.o]]
-* [[http://www.iinfo.cz/o-nas/|Internet Info, s.r.o.]]
-* [[http://www.soitron.cz/|SOITRON, s.r.o]] (dříve ClarioNet, viz výše)
+* [[http://www.iinfo.cz/|Internet Info, s.r.o.]]
+* [[http://www.soitron.cz/|SOITRON, s.r.o]]
 * [[http://www.elostech.cz/|ELOS Technologies, s.r.o.]]
 
 == Školení počítačových sítí pro firmy (TCP/IP, IPv6)
 
+* [[http://www.sitour.cz/|Sitour Česká Republika, s.r.o.]]
 * [[http://onas.seznam.cz/cz/|Seznam.cz, a.s.]]
 * [[http://www.hp.com/|HP Enterprise Services]]
 * [[http://www.sps-br.cz/|SPŠ Bruntál]]
 
 == Programátorská školení pro firmy (C, Python, Git)
 
-* [[http://www.sitour.cz/|Sitour Česká Republika, s.r.o.]]
 * [[http://www.skoda.cz/|ŠKODA AUTO a.s.]]
 * MECAS ESI, s.r.o.
 * [[http://www.portals.cz/|PORTALS Czech Republic, s.r.o.]]
+* [[http://www.homecredit.net/|Home Credit International a.s.]]
 
 == Konzultace
 
+* [[http://www.smartdata.cz/|Smartdata, s.r.o.]]
 * [[http://www.mdpraha.cz/|Management Data Praha, s.r.o.]]
+* [[http://www.wendulka.net/|Wendulka.net]]
+* [[http://www.hbmedia.cz/|HB Media s.r.o.]]
 
 == Realizace (počítačové sítě, servery, ústředny)
 
